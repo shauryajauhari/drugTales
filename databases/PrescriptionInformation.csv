@@ -1,0 +1,1001 @@
+PatientID,PrescriptionID,DoctorID,TherapyType,PrescribedMedicine,PharmaceuticalCompany
+39-3726027,96-6049281,34-0642998,Ayurveda,"Octinoxate, Octisalate",Lancaster S.A.M.
+33-7756817,95-5243331,47-9248246,Naturopathy,Oatmeal,Conopco Inc. d/b/a Unilever
+82-8278674,93-6227299,37-6977369,Allopathy,BENZETHONIUM CHLORIDE,Five Below
+43-3755536,13-5685685,06-5748511,Allopathy,Alcohol,"Bath & Body Works, Inc."
+46-3240758,12-6408434,34-9154655,Unani,Quetiapine fumarate,"Physicians Total Care, Inc."
+09-8556056,88-7555369,66-1606257,Homeopathy,"Barium Carbonate, Oyster Shell Calcium Carbonate, Crude, Fucus Vesiculosus, Iodine, Sodium Chloride, Pulsatilla Vulgaris, Spongia Officinalis Skeleton, Roasted, Thyroid","Natural Creations, Inc."
+31-2285116,22-0363101,87-1049504,Ayurveda,Benzalkonium Chloride,"Medline Industries, Inc."
+50-2473097,05-4042966,35-3734646,Ayurveda,Sodium Monofluorophosphate,"Dr. Fresh, Inc."
+80-3634821,27-8505055,27-3774470,Naturopathy,Estradiol,"Preferred Pharmaceuticals, Inc"
+15-1165956,37-2446802,91-9831883,Ayurveda,"Rye Grass, Perennial Standardized","ALK-Abello, Inc."
+48-4193405,97-8865578,27-5721298,Homeopathy,Phosphorus 6,Uriel Pharmacy Inc.
+16-0952158,53-5447967,39-1207904,Naturopathy,MATRICARIA RECUTITA ATROPA BELLADONNA ROOT TOBACCO LEAF,Uriel Pharmacy Inc
+17-5802345,01-1987137,13-3108426,Allopathy,Losartan Potassium and Hydrochlorothiazide,AvPAK
+48-1617461,27-1536414,25-1336236,Allopathy,clonidine hydrochloride,St Marys Medical Park Pharmacy
+96-8412513,26-9113373,01-9635941,Homeopathy,loratadine and pseudoephedrine,"Physicians Total Care, Inc."
+22-1274978,28-0034414,28-7257892,Allopathy,DIMETHICONE,Central Solutions Inc
+21-0720344,18-9326385,70-0357652,Homeopathy,olmesartan medoxomil,"Physicians Total Care, Inc."
+33-2664534,53-6375736,98-1837047,Naturopathy,DEXTRAN 70,"HANLIM PHARM. CO., LTD."
+35-6804318,73-5148071,79-9501520,Ayurveda,Irbesartan and Hydrochlorothiazide,"Solco Healthcare US, LLC"
+25-7708010,65-1073223,26-9035626,Allopathy,diphenoxylate hydrochloride and atropine sulfate,"PD-Rx Pharmaceuticals, Inc."
+69-2624655,49-3669575,86-8135229,Allopathy,"Loratadine, Pseudoephedrine Sulfate",Walgreen Company
+32-3596436,42-7271171,80-0854844,Unani,promethazine hydrochloride,Cardinal Health
+08-2621169,85-7711187,82-8314300,Homeopathy,Titanium Dioxide,"Bare Escentuals Beauty, Inc."
+35-8680480,06-7884069,61-4636905,Ayurveda,Topiramate,Aurobindo Pharma Limited
+17-4732685,56-0429005,35-1166050,Ayurveda,Simvastatin,REMEDYREPACK INC.
+83-3020189,95-2351858,05-7232919,Ayurveda,Oxycodone Hydrochloride,"Blenheim Pharmacal, Inc."
+20-4540134,09-3868826,89-6937629,Homeopathy,"famotidine, calcium carbonate and magnesium hydroxide",Supervalu Inc
+21-8543826,28-7738061,32-2404115,Allopathy,"Menthol, Methyl Salicylate",The Mentholatum Company
+84-3328334,20-8765558,67-8765636,Ayurveda,Diphenhydramine HCl,Western Family Foods Inc
+84-5712255,37-7784187,99-7662527,Naturopathy,Cefaclor,bryant ranch prepack
+33-3366719,01-7626393,33-3749518,Homeopathy,CLINDAMYCIN HYDROCHLORIDE,DIRECT RX
+77-0651973,90-8598141,70-0862392,Homeopathy,doxepin hydrochloride,"Somaxon Pharmaceuticals, Inc."
+02-7412950,89-2898332,75-4855245,Unani,Ethyl Alcohol,"Buckeye International, Inc."
+08-1592495,84-2153453,38-0594696,Unani,Water,Niagara Pharmaceuticals Inc.
+03-0309829,92-5097724,25-3280155,Naturopathy,ETHYL ALCOHOL,"CUARTA DIMENSION USA, INC."
+26-9265539,83-5174555,04-2873722,Ayurveda,Dipyridamole,"Roxane Laboratories, Inc."
+49-9682752,06-6816428,57-4074282,Allopathy,Octinoxate and Oxybenzone,"Ventura Corporation (San Juan, P.R)"
+63-9857531,06-8418112,64-9399821,Ayurveda,Levetiracetam,Dr. Reddy's Laboratories Limited
+52-9759721,98-8074140,31-8559188,Allopathy,"AVOBENZONE, OCTISALATE, HOMOSALATE, OCTOCRYLENE","Carma Laboratories, Inc."
+77-1698429,02-1807580,46-8667997,Naturopathy,HUMAN HEPATITIS B VIRUS IMMUNE GLOBULIN,Biotest Pharmaceuticals Corporation
+98-1430268,54-1899597,82-4195869,Naturopathy,Donepezil Hydrochloride,Alembic Pharmaceuticals Limited
+71-9540420,08-1639023,60-7402309,Homeopathy,BENZOYL PEROXIDE,"KATE SOMERVILLE SKINCARE, LLC"
+58-3838378,28-9825015,61-5809652,Unani,"Eucalyptol, menthol, methyl salicylate, thymol",Valu Merchandisers Co
+35-8363112,98-5186868,55-5004961,Homeopathy,FLUPHENAZINE HYDROCHLORIDE,"APP Pharmaceuticals, LLC"
+22-3156511,40-2206772,81-2748964,Allopathy,coagulation factor ix (recombinant),"Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc."
+72-2317296,32-7325439,04-7388714,Naturopathy,cetrorelix acetate,"EMD Serono, Inc."
+15-9224389,88-3623220,85-1699477,Naturopathy,Octinoxate and Oxybenzone,"Ventura Corporation Ltd. (San Juan, P.R)"
+82-4457842,40-8562858,72-6342345,Naturopathy,Olanzapine,Lake Erie Medical DBA Quality Care Products LLC
+77-2670165,72-0022599,40-4903308,Unani,"Titanium Dioxide, Zinc Oxide",Emilia Personal Care Inc.
+53-5592807,06-7811643,00-4715747,Ayurveda,Octinoxate and Oxybenzone,Ventura Corporation LTD
+24-3135668,12-9482414,26-5973342,Homeopathy,Famotidine,McNeil Consumer Pharmaceuticals Co.
+85-9775033,76-5174946,38-7780987,Naturopathy,famciclovir,Sandoz Inc
+03-2585163,51-9938974,00-3904636,Allopathy,Sodium Fluoride,Procter & Gamble Manufacturing Company
+93-2617868,96-2331884,38-8623961,Allopathy,Loratadine,Fred's Inc.
+07-2899163,22-0120734,09-8798395,Allopathy,DOCUSATE SODIUM,Hy-Vee
+42-0587939,35-7371823,89-7780251,Naturopathy,"Arnica montana, Bellis perennis, Bryonia, Calendula officinalis, Carbo vegetabilis, Hamamelis virginiana, Hepar sulphuris calcareum, Hypericum perforatum, Millefolium, Rhus toxicodendron, Staphysagria, Symphytum officinale, Veratrum album",King Bio Inc.
+82-2419674,19-5109680,04-4822470,Homeopathy,quinapril hydrochloride,"PD-Rx Pharmaceuticals, Inc."
+54-3903915,42-9329943,94-5882301,Homeopathy,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",DZA Brands LLC
+15-1113582,78-6425694,78-4049599,Ayurveda,Benzocaine,"Dharma Research, Inc."
+97-5335631,09-2474395,66-9824801,Allopathy,calcitriol,KAISER FOUNDATION HOSPITALS
+87-5551650,50-5563164,83-8911480,Homeopathy,Omeprazole,Dr. Reddy's Laboratories Limited
+80-4346235,24-7013293,48-0859233,Unani,Sumatriptan Succinate,REMEDYREPACK INC.
+65-3019318,63-6374998,04-5702202,Homeopathy,Isopropyl Alcohol,Moore Medical
+40-2642548,32-8160255,58-2313419,Ayurveda,Oxygen,The Service Center LLC
+77-6730291,38-0932053,98-5108613,Allopathy,Bisacodyl,McKesson
+27-4254673,29-6979417,83-7889232,Naturopathy,Acetaminophen,REESE PHARMACEUTICAL CO.
+39-5097004,88-8739001,03-3262588,Unani,Eastern Cottonwood,"Nelco Laboratories, Inc."
+54-0413542,29-9673233,12-6984281,Unani,ACETAMINOPHEN,Cardinal Health
+66-8721818,45-0833880,69-3870890,Naturopathy,benzonatate,Rebel Distributors Corp
+50-7531597,54-6475700,68-4073849,Ayurveda,Nicotine Polacrilex,L. Perrigo Company
+85-6836161,80-9460064,81-6497425,Unani,"Piperonyl butoxide, Pyrethrum extract",Family Dollar Services Inc
+08-7426831,91-2827307,24-4550967,Naturopathy,Oak Mixture,"Antigen Laboratories, Inc."
+34-5057244,22-9398223,50-0464651,Unani,"AVOBENZONE, OCTINOXATE","Fresh, Inc."
+19-3092347,98-4333656,20-5130860,Allopathy,Doxylamine succinate,COSTCO WHOLESALE CORPORATION
+43-7396914,05-2178431,17-6352559,Allopathy,vardenafil hydrochloride,GlaxoSmithKline LLC
+12-0040631,76-6819011,26-7260942,Ayurveda,lanolin and petrolatum,Qualitest Pharmaceuticals
+12-1489807,85-1658514,69-7161951,Ayurveda,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,STAT Rx USA LLC
+80-5655968,81-3397185,02-0069799,Allopathy,Felodipine,"Glenmark Generics, Inc. USA"
+15-5716332,15-1503843,57-2662919,Ayurveda,povidone-iodine,Triad Group
+77-2627776,01-6356127,12-1141828,Ayurveda,GABAPENTIN,"Breckenridge Pharmaceutical, Inc."
+57-1789643,77-5650289,64-2729488,Unani,Benzoyl Peroxide,Guthy-Renker LLC
+83-7764358,53-7594783,03-5900251,Homeopathy,Titanium Dioxide and Zinc Oxide,Omorovicza Kozmetikai Kft.
+70-4345419,73-0122302,32-5927768,Naturopathy,Bismuth Subsalicylate,Best Choice
+60-7917184,68-5478040,30-6867299,Homeopathy,Tretinoin,"Ortho-McNeil Janssen Pharmaceuticals, Inc."
+63-5489554,78-1763141,34-0614013,Homeopathy,Timolol,"Oak Pharmaceuticals, Inc. (Subsidiary of Akorn, Inc.) (968937719)"
+21-8239215,75-8364137,91-1476714,Naturopathy,Naproxen,"PD-Rx Pharmaceuticals, Inc."
+16-1033603,08-2344489,04-1491891,Unani,Amitriptyline Hydrochloride,Aidarex Pharmaceuticals LLC
+77-9811960,24-6180807,96-2987607,Ayurveda,lansoprazole,Cadila Healthcare Limited
+60-2453835,32-2675552,27-0829815,Naturopathy,FLUCONAZOLE,REMEDYREPACK INC.
+61-9266025,90-8762377,12-1962384,Ayurveda,"Diphenhydramine HCl, Phenylephrine HCl","Novartis Consumer Health, Inc."
+37-1569505,25-4033317,90-2146268,Naturopathy,"Aconitum napellus, Apis mellifica, Arnica montana, Arsenicum album, Belladonna, Bellis perennis, Bryonia, Calendula officinalis, Chamomilla, Clematis erecta, Clematis vitalba, flos, Ferrum phosphoricum, Histaminum hydrochloricum, Hypericum perforatum, Ignatia amara, Impatiens glandulifera, flos, Ornithogalum umbellatum, flos, Passiflora incarnata, Phosphorus, Prunus cerasifera, flos, Rhus toxicodendron, Sulphur, Symphytum officinale, Veratrum album",King Bio Inc.
+38-1009540,95-8163450,28-0690817,Homeopathy,"Berberis vulgaris, Cochlearia armoracia, Echinacea, Hydrastis canadensis, Lomatium dissectum, Myrrha, Tabebuia impetiginosa, Propolis, Glandula suprarenalis suis, Thymus suis, Ferrum metallicum,",Apotheca Company
+68-7574784,75-3920335,80-1869799,Unani,OXYGEN,Express Medical Inc
+93-1800740,94-5059624,40-8009210,Homeopathy,Benzocaine,Rite Aid
+05-6023484,49-8066238,48-5603275,Unani,"Bryonia,",Apotheca Company
+56-1120287,05-9623422,47-1696820,Allopathy,ALCOHOL,"Greenbrier International, Inc."
+93-7772504,45-4585349,52-7982482,Allopathy,Meclizine HCl,Family Dollar
+76-9956175,91-2921233,31-5517316,Allopathy,OCTINOXATE,BCM Cosmetique SAS
+21-4790785,18-5610669,93-0308579,Unani,Benzoyl Peroxide,Amerisource Bergen
+99-8202111,67-3702663,84-1313806,Unani,Bromine,White Manufacturing Incorporated
+33-2207148,50-6795366,01-2210121,Allopathy,ALCOHOL,"SJ Creations, Inc."
+55-0804939,50-5666159,71-2803160,Naturopathy,Trazodone Hydrochloride,KAISER FOUNDATION HOSPITALS
+60-7312342,91-1985158,10-0076752,Unani,"Loratadine, Pseudoephedrine",L. Perrigo Company
+96-4878171,68-1618758,94-9062182,Homeopathy,Lima Bean,"Antigen Laboratories, Inc."
+89-6059417,51-4108131,40-9021028,Ayurveda,"Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride",Meijer Distribution Inc
+27-5290509,87-4989069,59-1089821,Ayurveda,Baclofen,"NCS HealthCare of KY, Inc dba Vangard Labs"
+95-7394121,31-2266851,41-3103372,Homeopathy,"Borax, Carbo Vegetabilis, Carboneum Sulphuratum, Causticum, Natrum Muriaticum, Silicea","Peaceful Mountain, Inc."
+09-2183625,46-4404020,53-4929324,Allopathy,topiramate,"Supernus Pharmaceuticals, Inc."
+17-7119659,86-8999209,64-3892369,Homeopathy,Ropinirole Hydrochloride,"NCS HealthCare of KY, Inc dba Vangard Labs"
+62-3701341,06-5375687,09-0860474,Homeopathy,AMLODIPINE BESYLATE,American Health Packaging
+61-4638678,96-0418721,49-1124071,Allopathy,KETOTIFEN FUMARATE,"HANLIM PHARM. CO., LTD."
+61-9627760,25-4276597,01-8031717,Ayurveda,fenofibrate,Perrigo New York Inc
+29-8139423,89-6625983,19-6766630,Homeopathy,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",Meijer Distribution Inc
+60-8686531,09-2268537,87-8488824,Allopathy,entecavir,"Par Pharmaceutical, Inc."
+46-9456493,95-9954788,55-8087827,Ayurveda,"Echinacea (Angustifolia), Hydrastis Canadensis, Lomatium Dissectum, Nasturtium Aquaticum, Tabebuia Impetiginosa, Iodium, Adrenalinum, Thymus (suis), Throidinum (suis)","BioActive Nutritional, Inc."
+11-0564378,03-2576146,05-4439090,Ayurveda,"dextromethorphan HBr, guaifenesin, phenylephrine HCl",Richmond Division of Wyeth
+07-5726050,47-7931915,26-3384785,Naturopathy,"DEXTROMETHORPHAN HYDROBROMIDE, CHLORPHENIRAMINE MALEATE","SAMSUNG PHARM IND. CO., LTD."
+91-6030419,54-8276572,65-6905435,Allopathy,DOCUSATE SODIUM,McKesson (Health Mart)
+30-8567309,09-0118149,34-6799953,Naturopathy,ALCOHOL,"SJ Creations, Inc."
+83-5315552,30-1121828,01-9389865,Homeopathy,"OCTINOXATE, TITANIUM DIOXIDE",Parfums Christian Dior
+13-8103911,18-1137675,51-9747024,Allopathy,OCTINOXATE,"La Prairie, Inc."
+25-4683709,20-2658501,53-3249134,Unani,Aluminum Zirconium Tetrachlorohydrex GLY,Conopco Inc. d/b/a Unilever
+52-8813333,78-4857650,20-2775429,Ayurveda,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",Physicians Formula Inc
+43-3117571,91-3620152,15-4779613,Naturopathy,Arroyo Willow,"Nelco Laboratories, Inc."
+77-4686775,73-4720486,59-2548476,Unani,Minoxidil,H E B
+48-5897123,03-0787090,86-2400348,Naturopathy,prednisolone acetate,REMEDYREPACK INC.
+80-9976105,65-4197479,75-5354009,Allopathy,Metformin Hydrochloride,Aidarex Pharmaceuticals LLC
+60-6179943,80-6742108,07-5400241,Naturopathy,Ethyl Alcohol,Shanghai Weierya Daily Chemicals Factory
+78-4889974,29-2345593,82-4220957,Naturopathy,Metoprolol Tartrate,Cardinal Health
+52-4567315,35-5806292,38-2202905,Homeopathy,OCTINOXATE,IASO Inc
+48-6475489,84-0955244,26-5762852,Homeopathy,Oxycodone hydrochloride and Acetaminophen,Mylan Pharmaceuticals Inc.
+49-3129341,37-5006307,30-0403239,Ayurveda,"Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate","Watson Pharma, Inc."
+58-5897648,24-5047290,68-6910944,Naturopathy,doxepin hydrochloride,Mylan Pharmaceuticals Inc.
+61-9356598,76-2099843,94-2006558,Naturopathy,DIMETHICONE,MEGASOL COSMETIC GMBH
+82-3433350,00-6815313,82-2828412,Allopathy,Johnson Grass Pollen,"Antigen Laboratories, Inc."
+82-6231519,23-4606943,59-9117788,Unani,DEXTROMETHORPHAN HYDROBROMIDE,CVS
+34-6268141,08-2868555,14-2514877,Naturopathy,Nicotine Polacrilex,Rite Aid Corporation
+44-9483485,44-9695927,64-9564300,Naturopathy,Phenylephrine Hydrochloride,Hannaford Brothers Company
+34-1141996,74-9477066,92-5618433,Naturopathy,ribavirin,"Richmond Pharmaceuticals, Inc."
+08-2734139,85-3530133,69-0165223,Homeopathy,"DEXTROMETHORPHAN HYDROBROMIDE, PSEUDOEPHEDRINE HYDROCHLORIDE, and GUAIFENESIN","Pernix Therapeutics, LLC"
+86-6230752,07-1370257,50-4491771,Ayurveda,Goats Milk,"Nelco Laboratories, Inc."
+24-0438502,76-4410639,47-6367307,Ayurveda,Soft Cheat Brome,"Nelco Laboratories, Inc."
+67-1046706,09-6089852,38-2805747,Ayurveda,Goldenrod,"Nelco Laboratories, Inc."
+41-5200110,76-0007917,92-2014281,Allopathy,Menthol and Methyl Salicylate,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."
+58-9570398,92-9425697,15-6582542,Unani,"Titanium Dioxide, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Zinc Oxide","Inel Cosmetics Co., Ltd"
+14-5798799,06-6920931,15-7965799,Naturopathy,Menthol,The Mentholatum Company
+77-7811639,74-8696292,66-4052101,Allopathy,amitriptyline hydrochloride,Mylan Institutional Inc.
+38-0095660,68-0806250,04-3113824,Naturopathy,Venlafaxine Hydrochloride,"Aphena Pharma Solutions - Tennessee, LLC"
+43-9838096,43-3781854,22-4639389,Unani,amoxicillin,Dr Reddys Laboratories Inc
+92-9051297,22-2216426,88-9361258,Homeopathy,Triamcinolone Acetonide,Perrigo New York Inc
+71-0954166,08-1858879,82-6085649,Naturopathy,Metoprolol Tartate,Northwind Pharmaceuticals
+10-8553258,35-1351649,71-3177988,Homeopathy,"Allantoin, Benzethonium Chloride","Aidance Skincare & Topical Solutions, LLC"
+27-1573528,80-0970015,41-3555847,Allopathy,Witch Hazel,SKYLAKE
+62-0953528,89-4885235,19-8177288,Ayurveda,Polymyxin B Sulfate,Sagent Pharmaceuticals
+87-8497729,31-5746910,77-5470424,Homeopathy,SELENIUM SULFIDE,RITE AID CORPORATION
+56-5302410,36-6333193,81-1717662,Naturopathy,Ramipril,Apotex Corp.
+46-9218218,38-3293591,81-1017617,Homeopathy,sertraline hydrochloride,West-ward Pharmaceutical Corp
+05-6927751,80-4094267,78-9641488,Allopathy,warfarin sodium,Bristol-Myers Squibb Pharma Company
+80-0226297,31-8861533,97-3846846,Ayurveda,ETHYL ALCOHOL,SAFEWAY INC
+11-7590650,59-3591236,37-9491240,Allopathy,Levothyroxine Sodium,"Dispensing Solutions, Inc."
+32-9224423,96-5294556,95-6119772,Ayurveda,Clotrimazole,"Aidance Skincare & Topical Solutions, LLC"
+18-4895067,44-9687241,25-4550688,Allopathy,TITANIUM DIOXIDE,"ABLE C&C CO., LTD."
+11-6061740,83-1979139,31-3205863,Unani,Hydrocodone Bitartrate and Ibuprofen,Lake Erie Medical DBA Quality Care Products LLC
+19-9425163,30-3288147,38-3069255,Homeopathy,Cocklebur,"ALK-Abello, Inc."
+49-0820597,05-8640079,49-0686129,Ayurveda,Carbon Dioxide Oxygen Mixture,Spec Connection International Inc
+00-8071103,68-0590201,71-7317150,Ayurveda,Hydralazine Hydrochloride,REMEDYREPACK INC.
+41-1203530,67-1245878,71-0762425,Allopathy,Gabapentin,American Health Packaging
+65-6722392,59-1488397,23-4623376,Naturopathy,Hepatitis B Vaccine (Recombinant),GlaxoSmithKline Biologicals SA
+75-7993582,90-6549744,46-8304146,Homeopathy,Piperacillin and Tazobactam,"Hospira, Inc"
+23-6005760,43-9734311,08-0215033,Naturopathy,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Valeant Pharmaceuticals North America LLC
+83-3219139,10-5536939,36-6549383,Unani,Cumin,"Antigen Laboratories, Inc."
+22-0416129,84-2110463,71-0484425,Unani,calcium carbonate,Western Family Foods Inc
+31-2712105,95-2823539,93-1931813,Ayurveda,Calcium Carbonate,"A&Z Pharmaceutical, Inc."
+90-0390720,85-0414624,48-8601846,Unani,ALCOHOL,"Papermates, Inc. DBA Noteworthy"
+09-6569142,90-2639959,86-0222047,Unani,Stannous Fluoride,"Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc."
+86-8767598,54-3884920,35-9026889,Unani,Terbinafine Hydrochloride,Kaiser Foundation Hospitals
+53-9273066,17-7549496,01-0770109,Naturopathy,ALCOHOL,Navajo Manufacturing Company Inc.
+97-4154426,13-3897944,34-2487668,Allopathy,Lansoprazole,Teva Pharmaceuticals USA Inc
+12-4575880,95-0566217,25-5348175,Homeopathy,Titanium Dioxide,L'Oreal USA Products Inc
+63-5375582,33-5915984,97-1475523,Naturopathy,Diclofenac Sodium,"Physicians Total Care, Inc."
+50-9652221,10-9657989,72-3208596,Homeopathy,"ACETAMINOPHEN, DEXTROMETHORPHAN, PHENYLEPHRINE",Novartis Consumer Health
+75-6406963,42-5729022,86-8701605,Naturopathy,Antipyrine and Benzocaine,Bausch & Lomb Incorporated
+50-1941121,28-0613866,09-9329983,Allopathy,EPINEPHRINE,Cardinal Health
+46-6120489,96-6690546,85-5832465,Ayurveda,Acetaminophen,Hannaford Brothers Company
+18-2216177,32-6196392,50-2438785,Unani,HYOSCYAMINE SULFATE,"Paddock Laboratories, LLC"
+06-2484752,46-7556214,73-1045369,Ayurveda,Guaifenesin Dextromethorphan,Kramer Novis
+99-0093749,47-1483120,97-4136442,Homeopathy,Aluminum Zirconium Tetrachlorohydrex GLY,Conopco Inc. d/b/a Unilever
+82-4455348,06-4084064,68-3342968,Allopathy,"Androstenedione, Dehydroepiandrosterone, Pregenolone, Progesterone, Testosterone",Apotheca Company
+41-0640670,66-5140444,66-9943183,Allopathy,Ciprofloxacin,Rebel Distributors Corp
+53-1820482,53-1831395,44-9979077,Homeopathy,Menthol,Unifirst First Aid Corporation
+09-9686659,89-7352506,19-6465402,Unani,topiramate,Mylan Institutional Inc.
+14-6317071,06-4926795,22-4771324,Unani,Candida albicans,Apotheca Company
+83-4256743,23-5099121,05-3578638,Homeopathy,Potassium Chloride,Bryant Ranch Prepack
+04-4997942,54-3876025,43-5859322,Homeopathy,perphenazine,State of Florida DOH Central Pharmacy
+49-6209935,41-1833919,42-9149852,Homeopathy,Loperamide HCl,"ASSURED / DOLLAR TREE (Greenbrier International, Inc.)"
+74-4736244,25-1336222,71-9141819,Unani,Olanzapine,Dr.Reddy's laboratories Ltd.
+36-2184395,09-0060159,80-6016618,Naturopathy,Divalproex Sodium,Zydus Pharmaceuticals (USA) Inc.
+30-7285905,18-0954356,97-2872159,Allopathy,CYCLOSERINE,REMEDYREPACK INC.
+88-4179243,51-8255576,95-9708533,Unani,LYTTA VESICATORIA,Natural Health Supply
+28-0848143,47-2440326,32-7240208,Ayurveda,Ambrosia artemisiifolia,"Allermed Laboratories, Inc."
+90-6081112,61-1361413,74-6126529,Homeopathy,SIMETHICONE,SuperValu (Equaline)
+19-1666175,54-6689388,30-8810858,Naturopathy,Flutamide,"IVAX Pharmaceuticals, Inc."
+36-8709180,97-0100744,24-9617526,Naturopathy,Metronidazole,REMEDYREPACK INC.
+55-8594650,98-1468150,69-0277852,Homeopathy,Clam,"Nelco Laboratories, Inc."
+95-5279509,74-0244295,60-8953189,Unani,Titanium Dioxide,Ventura Corporation LTD
+37-3941225,55-0911983,87-7500065,Naturopathy,Ibuprofen,Unifirst First Aid Corporation
+81-5455796,96-9648792,07-4680709,Allopathy,Topiramate,Unit Dose Services
+69-6552782,44-1945804,77-3235896,Naturopathy,Diclofenac Sodium,"Preferred Pharmaceuticals, Inc."
+70-8387397,51-5839543,61-8286469,Allopathy,Fluconazole,Rebel Distributors Corp
+04-3584501,06-7493469,10-4085737,Allopathy,"Acetaminophen, Aspirin, Caffeine",Rite Aid Corporation
+02-9763638,67-9648917,90-8190312,Allopathy,Benzoyl Perozide,Physicians Care Alliance DBA PCA SKIN
+74-7748626,88-9565154,94-1779627,Ayurveda,Rifampin,Rebel Distributors Corp
+05-0343772,66-8729653,89-2835219,Naturopathy,Levonogestrel and Ethinyl Estradiol,"Physicians Total Care, Inc."
+02-3296876,88-8900871,31-1311965,Homeopathy,Ceftriaxone,"WG Critical Care, LLC"
+68-5574936,21-1664929,34-0064920,Homeopathy,Cyproheptadine Hydrochloride,Par Pharmaceutical Inc.
+63-4347961,35-7673850,79-1716612,Ayurveda,"Pseudoephedrine sulfate, Loratadine",Amerisource Bergen
+28-9172520,89-6407255,45-3321984,Ayurveda,LIDOCAINE HYDROCHLORIDE,"Hospira, Inc."
+52-3370280,75-3242232,44-6867360,Homeopathy,Acetaminophen,"Dolgencorp, LLC"
+68-0347006,45-7753556,42-5508305,Allopathy,fluticasone propionate and salmeterol,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+93-1416898,38-3736643,03-9350262,Homeopathy,"Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",Target Corporation
+27-6032945,83-2425157,00-7807329,Ayurveda,VANCOMYCIN HYDROCHLORIDE,Baxter Healthcare Corporation
+75-9261958,62-6199628,05-2947700,Ayurveda,"Calc Sulph 30c, Dulcamara 30c, Euphrasia 30c, Gelsemium 30c, Graphites 30c, Hepar Sulph 30c, Hydrastis 30c, Kali Bich 30c, Kali Iodatum 30c, Lycopodium 30c, Medorrhinum 30c, Mercurius Sol 30c, Nux Vomica 30c, Pulsatilla 30c, Silicea 30c, Thuja 30c",Home Sweet Homeopathics
+08-7303750,37-6008231,94-4288213,Naturopathy,Natural Menthol,MOBERG PHARMA NORTH AMERICA LLC
+38-4824988,67-7577163,45-7704597,Unani,hydrocortisone,A-S Medication Solutions LLC
+97-1117430,35-7378513,74-3450629,Ayurveda,Diethylpropion Hydrochloride,"Preferred Pharmaceuticals, Inc."
+71-1979928,63-1568731,45-6849222,Homeopathy,"Calc phos, Mag phos, Nux vom, Rhus tox","Native Remedies, LLC"
+46-6924149,99-5411453,74-7254011,Allopathy,TITANIUM DIOXIDE,Laboratoires Clarins S.A.
+50-2597341,08-4636323,56-3156893,Homeopathy,Polyethylene Glycol 3350,McKesson
+58-9985179,96-4787479,29-5672676,Naturopathy,"Acetaminophen, Diphenhydramine HCl",Kroger Company
+28-2168677,40-9966169,46-4666363,Allopathy,Tree of Heaven Ailanthus altissima,Jubilant HollisterStier LLC
+97-7435340,81-0293389,81-3109275,Naturopathy,"Piperonyl Butoxide, Pyrethrum Extract Shampoo",L. Perrigo Company
+93-6898151,68-3212255,45-2805525,Homeopathy,Lisinopril and hydrochlorothiazide,REMEDYREPACK INC.
+51-6819455,17-8174341,74-7224560,Naturopathy,FLUTICASONE PROPIONATE,DIRECT RX
+95-3084442,64-5816273,99-1364722,Allopathy,infliximab,"Janssen Biotech, Inc."
+18-1668612,38-2827622,02-2130054,Ayurveda,Methyl Salicylate and Menthol,Duane Reade
+12-7690346,98-7312433,98-8060305,Ayurveda,BENZALKONIUM CHLORIDE,TOPCO ASSOCIATES LLC
+45-4758111,50-5154505,16-9036136,Ayurveda,mesna,AGILA SPECIALTIES PRIVATE LIMITED
+77-4864071,44-0855373,43-5599031,Ayurveda,Sheep Sorrel,"Nelco Laboratories, Inc."
+14-9539980,05-2860739,48-4580973,Unani,BENZALKONIUM CHLORIDE,"Peachtree Playthings, Inc."
+15-9771663,25-8062696,44-7380393,Homeopathy,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",AMOREPACIFIC
+19-9495581,28-4962353,82-9678070,Homeopathy,Doxylamine succinate,H E B
+53-8096129,54-9782184,19-8041742,Ayurveda,Anticoagulant Citrate Phosphate Dextrose (CPD) AND AS-5 Red Cell Preservative,Terumo Corporation
+75-2554178,15-8146228,87-8033200,Ayurveda,Treatment Set TS329905,"Antigen Laboratories, Inc."
+93-9586117,76-5191521,12-6641726,Allopathy,Ruta graveolens,LivCorp Inc.
+72-2184861,36-9594435,39-8757127,Naturopathy,Bismuth Subsalicylate,Kroger
+06-1173064,06-6391345,33-5786924,Unani,Ethyl Alcohol,"Greenbrier International, Inc."
+90-2985158,69-1177925,86-6803790,Homeopathy,Lisinopril,REMEDYREPACK INC.
+80-8356681,53-7472537,19-3681204,Homeopathy,WITCH HAZEL,"Shanghai Yinjing Medical Supplies Co., Ltd."
+67-4821230,99-9942635,92-7753515,Unani,ARNICA MONTANA,BrandStorm HBC
+34-2939708,20-8370415,83-7715701,Ayurveda,Zinc Oxide,philosophy
+62-3464621,79-0136242,14-3926549,Allopathy,quercus alba pollen,"Allergy Laboratories, Inc."
+97-5152437,14-1058492,06-9484120,Allopathy,BUPIVACAINE HYDROCHLORIDE,"Hospira, Inc."
+48-9668938,44-5487266,21-1253999,Naturopathy,"Chelidonium Majus, Cholesterinum, Arsenicum Album, Belladonna, Lycopodium Clavatum, Tarentula Hispana","The Wellness Center for Research and Education, Inc."
+56-1251063,89-0093412,14-0150314,Allopathy,Oxaliplatin,Mylan Institutional LLC
+78-5346502,48-1571196,28-6768448,Homeopathy,Benzocaine,"Beutlich LP, Pharmaceuticals"
+31-0490977,60-9223469,62-6310889,Naturopathy,"Folliculinum, Progesterone, Glycerin, Sodium Benzoate, Citric Acid","BioActive Nutritional, Inc."
+33-2770559,27-6463281,99-3214440,Ayurveda,ALCOHOL,"American Industrial Supply, Inc."
+88-7904809,86-0761874,26-2088056,Unani,"dextromethorphan hbr, guaifenesin",Walgreen Company
+29-6318456,10-1531789,30-4568654,Homeopathy,Losartan Potassium and Hydrochlorothiazide,"Roxane Laboratories, Inc."
+05-4341615,99-1115929,54-2609186,Unani,Levetiracetam,"Boca Pharmacal, LLC"
+20-5386051,51-6949459,37-6941865,Ayurveda,"HOMOSALATE, OCTISALATE, OXYBENZONE, ZINC OXIDE",Cadey S.r.l.
+09-9491826,42-5174203,97-5602408,Unani,BENZOYL PEROXIDE,"Vivier Pharma, Inc."
+46-7081141,43-1579168,13-7262501,Unani,TRICLOSAN,APOLLO HEALTH AND BEAUTY CARE
+79-7909390,26-7861124,82-1673848,Ayurveda,Hydralazine Hydrochloride,"Par Pharmaceutical, Inc."
+91-4336962,04-3845389,08-5371417,Allopathy,Acetaminophen,Amerisource Bergen
+78-5467163,19-9625372,36-7571918,Unani,"Acetaminophen, guaifenesin, phenylephrine HCl",American Sales Company
+09-6278216,90-6406070,92-7872892,Unani,Slash Pine,"Nelco Laboratories, Inc."
+06-8338698,26-5223215,46-4634850,Naturopathy,CELECOXIB,Bryant Ranch Prepack
+36-9731111,73-7854375,59-2710095,Unani,Levofloxacin,Wockhardt Limited
+40-4275249,68-7540143,99-4271912,Ayurveda,Acetaminophen and Aspirin and Caffeine,Medtech Products Inc.
+54-8544488,60-0489602,65-3405327,Ayurveda,Quetiapine fumarate,REMEDYREPACK INC.
+47-2074787,81-4993594,00-6278849,Unani,Allopurinol,Cardinal Health
+57-0558577,40-1723978,22-0644282,Naturopathy,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone","Prime Packaging, Inc."
+34-0229420,05-9685944,63-8997068,Allopathy,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone","Prime Packaging, Inc."
+99-1375454,19-5237638,83-6255445,Allopathy,BUPIVACAINE HYDROCHLORIDE,"Hospira, Inc."
+07-0509523,64-5664650,09-2091073,Homeopathy,"Aconitum nap., Arnica, Bellis, Calendula, Echinacea, Gelsemium, Hamamelis, Hypericum, Ledum, Phosphorus, Rhus toxicodendron, Ruta, Staphysag., Symphytum, Hydrastis","Newton Laboratories, Inc."
+90-3973916,80-2028999,05-0033564,Homeopathy,Mackerel,"Nelco Laboratories, Inc."
+33-4110478,15-6265350,36-4505667,Allopathy,Lidocaine Hydrochloride,"General Injectables & Vaccines, Inc"
+37-4506653,01-9063394,69-8788806,Naturopathy,"DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE",DeMoulas Market Basket
+31-6465657,89-1348788,32-6769668,Homeopathy,Clemastine Fumarate,"Physicians Total Care, Inc."
+37-2086373,97-7670605,13-5815906,Homeopathy,Raloxifene hydrochloride,KAISER FOUNDATION HOSPITALS
+34-8805504,46-9110543,97-6691969,Allopathy,MENTHOL,Ricola Ag
+16-0770262,86-9532527,28-4023745,Naturopathy,"sodium chloride, sodium lactate, potassium chloride, calcium chloride",Baxter Healthcare Corporation
+98-8988192,40-9543255,59-2159540,Unani,"Octinoxate, Titanium Dioxide","Merle Norman Cosmetics, Inc."
+79-6455671,36-0954396,12-5717752,Ayurveda,"mineral oil, petrolatum","Allergan, Inc."
+37-3291582,88-6609597,21-8817026,Ayurveda,chloroxylenol,Ecolab Inc.
+93-7198520,74-5605569,08-5709043,Allopathy,"BENZALKONIUM CHLORIDE, LIDOCAINE, WATER, ISOTROPYL ALCOHOL, BENZOCAINE, ALCOHOL, ASPIRIN",Genuine First Aid LLC
+83-0564998,21-9981766,64-8032168,Unani,BENZOYL PEROXIDE,Perrigo New York Inc
+74-7419111,01-4195061,33-1518129,Allopathy,AMITRIPTYLINE HYDROCHLORIDE,STAT RX USA LLC
+76-5555590,64-6871895,92-9587433,Allopathy,ERYTHROMYCIN,STAT Rx USA LLC
+89-7448570,49-3789579,38-6800248,Allopathy,Triclosan,"SJ Creations, Inc."
+02-0961226,43-8253194,89-7962552,Homeopathy,"Acetaminophen, Diphenhydramine HCl","EQUATE (Walmart Stores, Inc.)"
+43-2984850,22-8789384,22-0080801,Ayurveda,Oxytocin,Cantrell Drug Company
+28-4890539,03-1088087,59-9203337,Allopathy,Hydrocortisone,McKesson
+11-4349624,97-9568321,01-2152038,Naturopathy,"Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",Supervalu Inc
+57-2392826,00-4421947,75-8018975,Ayurveda,"ESTROGENS, ESTERIFIED and METHYLTESTOSTERONE","CREEKWOOD PHARMACEUTICAL, INC,"
+86-7249530,88-6505244,50-8738683,Naturopathy,Diphenhydramine HCl,Best Choice (Valu Merchandisers Company)
+67-5786553,56-9367078,59-1589750,Allopathy,Promethazine Hydrochloride,Zydus Pharmaceuticals (USA) Inc.
+19-7449337,09-6511874,41-0361530,Ayurveda,"Aloe socotrina, Chamomilla, Cinchona officinalis, Colocynthis, Crotontiglium, Cuprum arsenicosum, Gelsemium sempervirens, Ipecacuanha, Nux vomica, Phosphoricum acidum, Podophyllum peltatum Veratrum album","Speer Laboratories, LLC"
+83-9954144,93-5469608,18-9727045,Naturopathy,Carbon Dioxide,Praxair Distribution Southeast LLC
+32-1941840,44-9578964,19-2842968,Unani,Galantamine,Barr Laboratories Inc.
+56-7888668,75-1409597,14-2884288,Naturopathy,furosemide,Qualitest Pharmaceuticals
+71-0547557,29-1081447,82-8282185,Homeopathy,"Apis mellifica, Argentum nitricum, Berberis vulgaris, Cantharis, Equisetum arvense, Kali bichromicum, Lycopodium clavatum, Mercurius solubilis, Natrum muriaticum, Phosphorus, Rhus toxicodendron, Sepia",Apotheca Company
+18-9500930,55-3805093,77-0404005,Naturopathy,MECLIZINE HYDROCHLORIDE,Roerig
+37-0859668,94-4185694,36-0804466,Homeopathy,Pramipexole Dihydrochloride Tablets,Endo Pharmaceuticals Inc. DBA Endo Generic Products
+10-3452894,29-4744867,28-3494483,Naturopathy,Mamma (sinistra) 6,Uriel Pharmacy Inc.
+80-8554574,86-9366489,04-4084959,Homeopathy,Fosinopril Sodium,Teva Pharmaceuticals USA Inc
+30-3436319,28-2292872,83-3089185,Ayurveda,Robitussin,"Aaron Industries, Inc."
+99-0851800,06-2885983,59-9054060,Allopathy,Hydroquinone and Octinoxate,Ultimark Products LLC
+53-6924886,60-3730223,28-5267689,Homeopathy,BENZETHONIUM CHLORIDE,"ABC Compounding Co., Inc."
+24-8515785,71-9269604,55-8995919,Unani,Capsaicin,"Concept Laboratories, Inc."
+42-0712061,68-2443632,92-8371211,Naturopathy,"bacitracin, neomycin, polymyxin B",Lake Erie Medical DBA Quality Care Products LLC
+77-8106532,04-3077434,24-5937636,Ayurveda,Aspergillus niger,"Nelco Laboratories, Inc."
+15-6248280,50-0637249,47-5490032,Homeopathy,ENALAPRIL MALEATE,Wockhardt Limited
+66-3303358,90-4337954,69-5166975,Ayurveda,Pseudoephedrine Hydrochloride,Rebel Distributors Corp
+27-9536363,36-9711038,88-7328414,Allopathy,ONDANSETRON HYDROCHLORIDE,"Fresenius Kabi USA, LLC"
+17-4321880,70-0186667,14-2831315,Naturopathy,"CALCIUM CITRATE, CALCIUM CARBONATE, POTASSIUM IODIDE, MAGNESIUM CITRATE, ZINC CITRATE, COPPER GLUCONATE, and FERROUS FUMARATE","USANA Health Sciences, Inc."
+86-4141248,36-8853573,27-3867127,Naturopathy,Hydrocodone Bitartrate and Acetaminophen,Rebel Distributors Corp
+35-4686838,58-3936193,76-4776600,Ayurveda,Miconazole nitrate,Meijer Distribution Inc
+07-9147452,08-7826016,17-0028701,Homeopathy,"Aconitum napellus, Hypericum perforatum, Lycopodium clavatum, Phosphorus, Rhus toxicodendron, Secale cornutum",Origin Biomed Inc
+87-3186799,53-2148254,19-3105571,Naturopathy,"SPONGIA OFFICINALIS SKELETON, ROASTED",Hyland's
+41-8071474,44-7277652,06-2181354,Ayurveda,Atenolol and Chlorthalidone,AstraZeneca Pharmaceuticals LP
+77-8184465,19-1515955,72-5087413,Naturopathy,Aluminum Chlorohydrate,Conopco Inc. d/b/a Unilever
+56-7388475,53-8441105,72-0153906,Unani,Guaifenesin,Publix Super Markets Inc
+78-6272235,39-2599572,15-8643647,Homeopathy,TITANIUM DIOXIDE and ZINC OXIDE,ETUDE HOUSE
+40-1411250,12-5774081,64-5907442,Ayurveda,Camphor,"Revive Bioscience, Inc."
+38-1568436,50-4404510,47-6689908,Ayurveda,Calcium Gluconate,"American Regent, Inc."
+81-5633979,36-2928829,51-1241395,Allopathy,Citrus Cydonia 1,Uriel Pharmacy Inc.
+32-8877823,87-3338043,87-8552427,Allopathy,NIFEDIPINE,"International Labs, Inc."
+79-3899989,40-6214757,36-9141671,Allopathy,ALCOHOL,MGS Group Limited
+88-6386995,13-3635849,79-5032516,Homeopathy,Acetaminophen Salicylamide Aspirin,Zee Medical Inc
+25-3170498,86-0274578,00-2658039,Naturopathy,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",Wakefern Food Corporation
+87-4902758,31-4251316,08-6254074,Unani,Dextromethorphan Hydrobromide and Acetaminophen,"Blacksmith Brands, Inc."
+91-1344097,27-1272137,90-3969349,Naturopathy,Montelukast Sodium,Bryant Ranch Prepack
+37-2722972,64-1811702,99-7386332,Unani,ampicillin sodium and sulbactam sodium,GeneraMedix Inc.
+77-3325618,40-7616934,79-0000648,Unani,Cetylpyridinium Chloride,"Melaleuca, Inc."
+08-1659473,48-7001538,44-9669633,Unani,Gabapentin,Cardinal Health
+04-4617002,12-6785421,34-5889155,Allopathy,Cocklebur,"ALK-Abello, Inc."
+37-6467226,38-6017084,81-0874544,Allopathy,ONDANSETRON,REMEDYREPACK INC.
+68-1813278,70-5725001,23-7382902,Naturopathy,CARBIDOPA and LEVODOPA,"Global Pharmaceuticals, Division of Impax Laboratories Inc."
+45-0800211,86-3887502,18-3756835,Naturopathy,carvedilol,GlaxoSmithKline LLC
+84-8316896,68-6583138,93-5767951,Ayurveda,Duloxetine hydrochloride,Cardinal Health
+76-8960103,38-1082929,91-2912117,Unani,"Docusate sodium, Sennosides",QUALITY CHOICE (Chain Drug Marketing Association)
+32-0848547,31-3619614,98-7225276,Homeopathy,Lisinopril,Cardinal Health
+08-6637396,40-7547931,10-6141343,Unani,Levetiracetam,Solco Healthcare US LLC
+31-3595341,78-3786557,94-1452286,Homeopathy,Titanium Dioxide,"NANDA CO., LTD."
+70-2699627,82-0586104,02-8398601,Ayurveda,Levocarnitine,"Teva Parenteral Medicines, Inc."
+49-7897815,59-5424379,78-8006715,Naturopathy,"Castanea vesca, Juniperus communis, Phytolacca decandra, Quercus glandium spiritus, Myosotis arvensis, Natrum sulphuricum, Ceanothus americanus, Helianthus annuus, Natrum muriaticum, Lymph (suis), Spleen (suis), Thymus (suis),","Deseret Biologicals, Inc."
+52-4133107,64-3192158,67-0376163,Naturopathy,risperidone,"Janssen Pharmaceutical, Inc."
+34-3600897,31-1537759,38-2100637,Ayurveda,metronidazole,"Physicians Total Care, Inc."
+74-5719137,60-8097150,35-8348463,Allopathy,fluconazole,Roerig
+74-5399333,19-4904945,25-6777605,Naturopathy,Pike,"Nelco Laboratories, Inc."
+32-0543836,05-2665709,96-3301966,Unani,White Petrolatum,"Western Family Foods, Inc"
+37-0325610,22-6062017,96-8451324,Allopathy,"avobenzone, homosalate, octisalate, octocrylene","Sun & Skin Care Research, LLC"
+81-1856432,32-4887208,84-8227107,Unani,Trichoderma harzianam,"Nelco Laboratories, Inc."
+01-6837236,89-3165723,64-3046285,Homeopathy,Captopril,"NCS HealthCare of KY, Inc dba Vangard Labs"
+42-0091792,28-0160651,69-1571799,Homeopathy,Clonidine Hydrochloride,"PD-Rx Pharmaceuticals, Inc."
+97-2499710,58-5224379,27-1825463,Unani,ibuprofen,"Preferred Pharmaceuticals, Inc."
+86-5043648,78-6808984,37-5842682,Ayurveda,"Adenosine Triphosphate (ATP), Coenzyme A, Coenzyme Q10, Pineal Gland (suis), Sarcolacticum Acidum, Melatonin",Deseret Biologicals
+59-9475368,81-9078598,59-6001240,Ayurveda,Guaifenesin,American Sales Company
+29-8983890,24-2005202,08-1091312,Unani,"oxycodone hydrochloride, acetaminophen",Rx Pak Division of McKesson Corporation
+00-2293782,70-0929264,00-8499409,Naturopathy,sodium phosphate,"Medline Industries, Inc."
+69-0787728,99-6518759,58-1933588,Ayurveda,ketoconazole,Mylan Pharmaceuticals Inc.
+30-1473905,47-2413775,32-5032960,Ayurveda,WITCH HAZEL,Dr. Dream Inc
+40-9019091,80-1377958,58-8181069,Ayurveda,Octinoxate and Titanium dioxide,"SHISEIDO CO., LTD."
+94-8633791,31-1381674,80-2196940,Unani,Ranitidine,"L.N.K. International, Inc."
+07-7082644,41-4258230,30-6949124,Ayurveda,calcium carbonate,McKesson
+24-3577408,49-6919091,07-0923090,Allopathy,Box Elder,"Nelco Laboratories, Inc."
+57-9415081,46-0901889,56-4108211,Ayurveda,Octinoxate and Titanium Dioxide,SHISEIDO AMERICA INC.
+37-3709747,11-7085377,68-4530790,Ayurveda,Indium In-111 Oxyquinoline,Medi-Physics Inc. dba GE Healthcare.
+72-4879960,06-4148898,21-3185216,Naturopathy,Acetaminophen,"A&Z Pharmaceutical, Inc."
+04-5773327,55-8450218,41-1652547,Naturopathy,Valsartan and Hydrochlorothiazide,Aurobindo Pharma Limited
+88-5630974,51-9703036,96-0878200,Allopathy,clopidogrel bisulfate,Apotex Corp.
+37-5549449,02-1226751,17-3227033,Homeopathy,Titanium dioxide,SHISEIDO AMERICAS CORPORATION
+80-4553089,39-0568360,13-3669036,Naturopathy,Allantoin,"AMI Cosmetic Co.,Ltd."
+51-0377745,40-2649863,34-5832911,Allopathy,SODIUM MONOFLUOROPHOSPHATE,"Level Oral Care, LLC"
+62-7737616,97-1983858,34-4306365,Allopathy,Cultivated Oat,"Nelco Laboratories, Inc."
+15-8181232,74-3115518,83-9312599,Naturopathy,Ketotifen,Western Family Foods Inc
+80-1214683,50-6324930,27-4487041,Unani,isotretinoin,"Physicians Total Care, Inc."
+33-9184066,37-1389011,94-7229715,Unani,Hydrogen Peroxide,Cintas First Aid & Safety
+16-9333970,16-9900005,79-4647199,Unani,"Avobenzone, Octinoxate, Octisalate, Oxybenzone",JAFRA COSMETICS INTERNATIONAL
+94-6244299,90-5715860,69-8734452,Unani,Naproxen Sodium,Rite Aid Corporation
+05-0117939,15-4287105,13-3869034,Unani,Pelargonium sidoides,"Nature's Way Products, Inc."
+63-8517136,99-3656268,80-0903839,Naturopathy,water,"Sato Pharmaceutical Co., Ltd."
+19-1583774,41-7325145,59-6809291,Ayurveda,mineral oil,Amerisource Bergen
+21-3699272,24-9762511,51-2890360,Ayurveda,EUCALYPTOL THYMOL,Bio-Germ Protection LLC
+79-2295225,35-6765622,79-4351934,Unani,zonisamide,Mylan Pharmaceuticals Inc.
+46-0707306,40-7070203,64-8232807,Naturopathy,sus scrofa small intestine mucosa lymph follicle,Sanum Kehlbeck GmbH & Co. KG
+70-7733825,94-1372994,85-5401388,Unani,"Polyethylene Glycol 3350, Sodium Sulfate Anhydrous, Sodium Bicarbonate, Sodium Chloride, Potassium Chloride","Braintree Laboratories, Inc."
+84-5219173,15-1482184,88-6862997,Allopathy,ERGOCALCIFEROL,Pliva Inc.
+49-0865888,51-0761344,04-8973714,Allopathy,methylprednisolone sodium succinate,Pharmacia and Upjohn Company
+14-3320815,38-2564219,17-7484825,Naturopathy,ramipril,Cobalt Laboratories
+39-3133946,12-5111562,04-9864657,Homeopathy,"Shark Cartilage, Scrophularia Nodosa, Echinacea, Phytolacca Decandra, Germanium Sesquioxide, Calcarea Iodata, Lymph, Spleen, Thuja Occidentalis,","Synergy Formulas, Inc."
+08-7570152,81-8572669,21-7285039,Unani,Polyethylene Glycol 3350,American Health Packaging
+01-6312344,00-8606680,25-9572195,Unani,"Apis mel, Cantharis, Equisetum arv, Ferrum phos, Sarsaparilla","Native Remedies, LLC"
+33-4570740,69-1064797,73-4180133,Naturopathy,"Aconitum Napellus, Arsenic Trioxide, Atropa Belladonna, Bryonia Alba Root, Eupatorium Perfoliatum Flowering Top, Ferrum Phosphoricum, Gelsemium Sempervirens Root","Natural Creations, Inc."
+86-5110800,29-2765004,30-3204231,Homeopathy,Ciclopirox Olamine,"Glenmark Generics Inc., USA"
+05-3293023,72-3399760,50-1256701,Homeopathy,methylphenidate hydrochloride,"Actavis Pharma, Inc."
+74-7893046,64-5855152,59-3736605,Allopathy,Triclosan,"SJ Creations, Inc."
+38-2693397,23-3806027,26-9595528,Unani,valganciclovir hydrochloride,"Genentech, Inc."
+20-4240912,17-5870198,55-9337919,Unani,Chloroxylenol,"GOJO Industries, Inc."
+56-4183423,37-6031290,67-7134550,Homeopathy,Phentermine Hydrochloride,"Physicians Total Care, Inc."
+82-1899516,54-3730568,70-1550601,Naturopathy,"Ammonium muriaticum, Apis mellifica, Aurum metallicum, Borago officinalis, Causticum, Eriodictyon californicum, Gelsemium sempervirens, Ignatia amara, Natrum muriaticum, Ornithogalum umbellatum, flos, Phosphoricum acidum, Pinus sylvestris, flos, Rosa damascena, Taraxacum officinale",King Bio Inc.
+29-6147011,64-0778615,32-1776333,Ayurveda,"Lycopodium clavatum, Natrum muriaticum, Sepia, Belladonna, Causticum, Phosphorus, Sulphur, 5-hydroxytryptophan, Alumina, Silicea,","Deseret Biologicals, Inc."
+29-7215339,41-1942100,19-8151878,Allopathy,DOCUSATE SODIUM,Hy-Vee
+09-0382615,44-5792663,01-7484413,Naturopathy,"Aconitum napellus, Apis mellifica, Arnica montana, Arsenicum album, Belladonna, Bellis perennis, Bryonia, Calendula officinalis, Chamomilla, Clematis erecta, Clematis vitalba, flos, Ferrum phosphoricum, Histaminum hydrochloricum, Hypericum perforatum, Ignatia amara, Impatiens glandulifera, flos, ornithogalum umbellatum, flos, Passiflora incarnata, Phosphorus, Prunus cerasifera, flos, Rhus toxicodendron, sulphur, symphytum officinale, Veratrum album","Speer Laboratories, LLC"
+11-8625082,39-0571530,41-0760800,Homeopathy,"neomycin sulfate, polymyxin b sulfate and hydrocortisone","Preferred Pharmaceuticals, Inc."
+93-1277496,72-2052346,03-3682632,Ayurveda,doxycycline,PharmaDerm a division of Fougera Pharmaceuticals Inc.
+71-6522474,44-5393518,06-3777202,Unani,ALCOHOL,"Core Brands, Inc."
+56-3971973,06-9155812,83-5000145,Allopathy,menthol,Pure Source
+91-1478025,02-9649464,23-0925000,Ayurveda,TRICLOSAN,AMERICAN SALES
+14-5468828,51-1851299,08-2588782,Ayurveda,"Acetaminophen, Chlorpheniramine maleate, Phenylephrine Hydrochloride, and Dextromethorphan hydrobromide",Bayer Corporation Consumer Care Division
+84-3405388,68-7453703,88-1463217,Naturopathy,Divalproex Sodium,Bryant Ranch Prepack
+14-2864445,78-7569244,81-8375366,Allopathy,acyclovir,"Prestium Pharma, Inc."
+94-8767384,41-0957223,41-6277524,Unani,Loratadine,American Sales Company
+86-5173081,20-2969791,18-4943648,Allopathy,Shark cartilage,Apotheca Company
+64-8488519,53-6536422,14-6597566,Allopathy,Salicylic Acid,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."
+44-6038908,70-1146749,23-7798205,Unani,BENZALKONIUM CHLORIDE,"SJ Creations, Inc."
+71-6163321,71-7587229,23-8668655,Homeopathy,Triclosan,"SJ Creations, Inc."
+14-4634088,00-4851762,13-4930882,Naturopathy,lisinopril,Exelan Pharmaceuticals Inc.
+47-7492185,45-3095271,76-3610647,Allopathy,Mango,"Nelco Laboratories, Inc."
+39-3054039,06-1029804,79-8583493,Homeopathy,"Acetaminophen, Dextromethorphan HBr",H E B
+81-0457307,15-0240432,26-0607079,Homeopathy,KETOROLAC TROMETHAMINE,"Hospira, Inc."
+29-6938158,55-5396567,20-7190180,Homeopathy,MENTHOL and CAMPHOR (SYNTHETIC),"Concept Laboratories, Inc."
+28-2030778,79-8547516,79-6440552,Allopathy,salix nigra pollen,"Allergy Laboratories, Inc."
+16-6632355,05-3469444,86-1989915,Allopathy,SODIUM CHLORIDE,Uriel Pharmacy Inc
+87-4885905,40-8215512,76-4872931,Allopathy,"CAMPHOR (NATURAL), MENTHOL",CHUNG KEE USA INTERNATIONAL INC
+78-4161736,02-3225012,07-8346852,Homeopathy,SALICYLIC ACID,"Bentley Laboratories, LLC"
+54-4225808,02-1502085,82-7807923,Homeopathy,Gallicum Acidum,BioActive Nutritional
+07-5489214,38-9054060,63-2826023,Homeopathy,levofloxacin,Bryant Ranch Prepack
+56-3021353,29-0992829,08-1032106,Homeopathy,"Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride",Cardinal Health
+71-6853105,19-6172476,70-0013481,Ayurveda,Losartan potassium and hydrochlorothiazide tablets,Sandoz Inc
+06-3802608,59-0670174,10-2518227,Naturopathy,"AVOBENZONE, OCTINOXATE, TITANIUM DIOXIDE",CHROMAVIS SPA
+94-4668069,51-8727887,50-3552358,Ayurveda,POVIDONE-IODINE,Purdue Products LP
+81-0063795,86-8536040,56-5351256,Ayurveda,Potassium Chloride,Contract Pharmacy Services-PA
+52-2956127,47-6647466,34-8795075,Naturopathy,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone","MSD Consumer Care, Inc."
+61-0605002,40-2853100,65-2398988,Homeopathy,"Arsenicum Album, Phosphorus, Pulsatilla, Sepia, Alternaria tenuis, Aspergillus niger, Rhizopus nigricans","Energique, Inc."
+96-7131478,43-1000376,65-9456521,Ayurveda,ciprofloxacin hydrochloride,"Alcon Laboratories, Inc."
+64-9910234,20-8059635,24-0548834,Naturopathy,"Antimonium crudum, Belladonna, Calcarea carbonica,",Apotheca Company
+49-8463924,20-8051735,68-0530150,Naturopathy,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE AND PHENYLEPHRINE HYDROCHLORIDE",Unifirst First Aid Corporation
+21-5827056,03-8149738,35-6431223,Naturopathy,Amitriptyline Hydrochloride,"H.J. Harkins Company, Inc."
+54-6027061,31-0120223,90-7973600,Naturopathy,Phenytoin Sodium,Cardinal Health
+62-3378519,52-5471005,83-1414497,Ayurveda,"Famotidine, Calcium Carbonate, Magnesium Hydroxide",Kmart Corporation
+88-7339329,03-6176801,08-9851938,Naturopathy,Triamcinolone Acetonide,"Preferred Pharmaceuticals, Inc."
+13-7724345,02-9547888,09-8769984,Allopathy,Salicylic Acid,Neutrogena Corporation
+75-2602138,34-5643757,04-3494951,Unani,Mustard Greens,"Antigen Laboratories, Inc."
+75-0711189,32-5638633,70-7392007,Ayurveda,Metronidazole,REMEDYREPACK INC.
+65-1133110,45-1474770,67-9020550,Ayurveda,minoxidil,Actavis Mid Atlantic LLC
+47-3656549,27-1909152,31-3593309,Naturopathy,Promethazine Hydrochloride,West-ward Pharmaceutical Corp.
+66-3078033,74-1232916,49-6063535,Ayurveda,Povidone Iodine,Geritrex Corp.
+02-7160683,76-6658993,10-0578569,Naturopathy,quetiapine fumarate,Apotex Corp.
+44-8561543,48-6211651,62-1136969,Homeopathy,Octinoxate,Rimmel Inc.
+34-9209324,79-7387608,54-1394990,Naturopathy,"Dextromethorphan Hydrobromide, Guaifenesin",Meijer Distribution Inc
+23-5514655,11-7248809,79-8545589,Allopathy,Enalapril Maleate,Apace Packaging
+10-0232704,76-4132302,04-4428116,Naturopathy,Famotidine,Dr.Reddy's Laboratories Limited
+17-0885046,31-1241251,51-9278584,Homeopathy,Nicotine Polacrilex,L. Perrigo Company
+57-7008964,16-6592416,07-5886300,Homeopathy,cyclobenzaprine hydrochloride,Bryant Ranch Prepack
+89-2768820,42-9567753,81-9688253,Unani,Benzalkonium Chloride,"Deb USA, Inc."
+08-5532221,68-5866650,73-3276339,Homeopathy,Arabic Gum,"Nelco Laboratories, Inc."
+24-8633347,87-2576684,62-8887376,Ayurveda,Methoxsalen,Oceanside Pharmaceuticals
+68-1296732,08-3354384,46-7195065,Homeopathy,Simvastatin,"International Labs, Inc."
+25-8888772,82-3092250,16-4868901,Ayurveda,Ranitidine,Major Pharmaceuticals
+00-5874479,45-0883139,04-4572150,Allopathy,DOCUSATE CALCIUM,Major Pharmaceuticals
+95-1188765,43-5896118,95-3503701,Ayurveda,Clotrimazole,Target Corporation
+10-3006108,26-1629338,83-6712382,Unani,Aluminum Sesquichlorohydrate,Ventura Corporation Ltd.
+85-9503205,34-4514327,95-0416340,Homeopathy,"DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE","Hospira, Inc."
+27-2919911,68-1762640,01-7603016,Naturopathy,Octinoxate,DHC USA Incorporated
+79-7836779,55-1518409,01-6131573,Ayurveda,Apraclonidine Hydrochloride,Akorn Inc.
+92-3143076,07-9238388,09-3438575,Ayurveda,"Echinacea, Lobelia Inflata, Antimonium Tartaricum, Aralia Racemosa, Drosera, Ipecacuanha, Kali Carbonicum","Energique, Inc."
+30-3371664,76-5234771,93-6219071,Unani,"octinoxate, zinc oxide",Rite Aid
+79-2046561,95-9257602,09-9060140,Homeopathy,Palmers Amaranth,"Nelco Laboratories, Inc."
+25-5872420,86-6016583,52-3501155,Unani,Alcohol,Ideas Born to Succeed
+14-2079857,41-5748823,08-0852081,Naturopathy,PredniSONE,"Dispensing Solutions, Inc."
+46-3375417,66-2461552,76-4502027,Homeopathy,Acetaminophen,Amerisource Bergen
+26-6037183,79-1544427,71-8212692,Allopathy,DEXTROSE MONOHYDRATE,Cardinal Health
+69-1044215,46-3227639,87-0845967,Naturopathy,"Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide","Physicians Total Care, Inc."
+81-1290864,19-7763481,10-9120912,Unani,Benzocaine and Resorcinol,Chain Drug Marketing Association (CDMA)
+27-2363160,60-7291420,89-5061367,Ayurveda,"DOCUSATE SODIUM, SENNOSIDES",New World Imports
+95-7870604,04-1828337,23-5133610,Naturopathy,TRICLOSAN,"Jets, Sets, & Elephants Beauty Corp."
+87-8760359,46-5446110,57-1196395,Ayurveda,Walnut English Pollen,"ALK-Abello, Inc."
+35-4726500,70-8102224,53-0489147,Allopathy,human botulinum neurotoxin a/b immune globulin,CALIFORNIA DEPARTMENT OF PUBLIC HEALTH
+31-7983608,83-2761260,73-5093294,Homeopathy,Lidocaine,Clinical Solutions Wholesale
+48-6085582,66-5240028,00-9344018,Unani,BENZALKONIUM CHLORIDE,"Ningbo Dowland Daily Health Co., Ltd"
+65-8698998,05-5175564,46-4709730,Naturopathy,conjugated estrogens and medroxyprogesterone acetate,"Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc."
+72-8196961,22-9019341,77-0699804,Ayurveda,Sertraline Hydrochloride,Cardinal Health
+23-2512874,26-4540405,65-2610470,Naturopathy,Mixture of Seven Standardized Grasses,"Antigen Laboratories, Inc."
+03-8923288,40-6887872,76-8690792,Ayurveda,desvenlafaxine succinate,"Physicians Total Care, Inc."
+24-3972447,09-9109669,27-2638299,Naturopathy,benazepril hydrochloride,Ranbaxy Pharmaceuticals Inc.
+30-9225397,88-4246496,19-0807778,Ayurveda,doxorubicin hydrochloride,"Teva Parenteral Medicines, Inc."
+60-9618450,95-8742154,15-3800273,Ayurveda,Ibuprofen,The Kroger Co
+39-4994104,04-5033195,45-4982197,Allopathy,ethyl alcohol,Shanghai Weierya Daily Chemicals Factory
+98-3666627,04-5958207,31-6442899,Ayurveda,Tetrahydrozoline HCl,Major Pharmaceuticals
+44-7865124,70-0450477,01-3494580,Allopathy,Cetylpyridinium cloride,H-E-B
+51-0160161,77-5501639,37-7636283,Unani,naftifine hydrochloride,"Physicians Total Care, Inc."
+38-0823601,60-5892119,94-6560392,Naturopathy,Oxygen,Georgia Respiratory HomeCare & Medical Equipment LLC
+05-3982556,56-5351121,88-0885802,Allopathy,Ciprofloxacin,Claris Lifesciences Inc.
+71-3541493,44-1149267,63-1814234,Homeopathy,Colestipol Hydrochloride,Pharmacia and Upjohn Company
+43-3819111,03-9978068,06-4204717,Allopathy,betamethasone valerate,"Physicians Total Care, Inc."
+64-4923789,15-9556939,82-2564999,Allopathy,Triclosan,"SJ Creations, Inc."
+92-9635698,89-6060595,19-3879843,Naturopathy,Corn Grass,"Nelco Laboratories, Inc."
+68-8201193,77-4261142,69-7818774,Unani,Octinoxate,"Elizabeth Arden, Inc"
+62-1626815,44-6095985,58-1819165,Ayurveda,Phentermine hydrochloride,Northwind Pharmaceuticals
+98-1242416,80-1544171,57-4017201,Unani,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,"Dispensing Solutions, Inc."
+88-8466642,62-9986441,62-5383945,Unani,Finasteride,American Health Packaging
+22-8912645,90-5800914,25-5256460,Allopathy,DEXAMETHASONE SODIUM PHOSPHATE,Cardinal Health
+31-5075160,19-4114069,19-9740462,Unani,hydrocortisone,Duane Reade
+08-8802357,91-0180821,45-8294761,Allopathy,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE, HYDROXYPROLINE, ATRACTYLODES JAPONICA ROOT OIL","LG Household and Healthcare, Inc."
+00-1769611,95-8687351,41-8425767,Homeopathy,"Equisetum Hyemale, Solidago Virgaurea, Cantharis, Kidney (Suis), Belladonna, Berberis Vulgaris, Calcarea Carbonica, Terebinthina","Deseret Biologicals, Inc."
+95-0103431,21-7407387,09-2518064,Ayurveda,ZINC OXIDE TITANIUM DIOXIDE,Kamins Dermatologics Inc.
+33-0487363,18-4727866,55-3677432,Naturopathy,Prednisolone,Stat Rx USA
+10-5020535,26-9775314,65-3426688,Allopathy,Diazepam,Major Pharmaceuticals
+23-6693075,37-5592743,67-8490213,Unani,NERIUM OLEANDER LEAF,Natural Health Supply
+27-5170879,48-7290883,88-9306799,Ayurveda,Warfarin Sodium,"Aphena Pharma Solutions - Tennessee, LLC"
+47-4209100,87-4236719,52-6511751,Homeopathy,Mexiletine Hydrochloride,"AvKARE, Inc."
+82-8000411,67-6191284,23-1376552,Naturopathy,"acetaminophen, dextromethorphan hydrobromide and doxylamine succinate",Sam's West Inc
+88-2046772,82-0635515,49-0136855,Homeopathy,Gemfibrozil,"PD-Rx Pharmaceuticals, Inc."
+49-6234921,05-9526294,65-1603148,Ayurveda,Lisinopril and Hydrochlorothiazide,Lake Erie medical DBA Quality Care Products LLC
+07-7662407,91-4721184,48-5826950,Homeopathy,Ranitidine Hydrochloride,REMEDYREPACK INC.
+10-5467421,06-2841479,92-3905941,Naturopathy,Bupropion Hydrochloride,"Dispensing Solutions, Inc."
+18-7805580,73-5708282,62-0988317,Unani,"DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, POTASSIUM ACETATE, and MAGNESIUM ACETATE","Hospira, Inc."
+57-2610065,19-1789547,57-8529578,Homeopathy,Psyllium husk,Health Mart
+04-2189028,56-3867663,94-6155696,Naturopathy,Ruta,LivCorp Inc.
+18-6087278,59-1345399,76-2058203,Homeopathy,"Borneol, Menthol",Henan Lingrui Pharmaceutical Co.; Ltd
+37-6429056,95-8900670,09-1574347,Ayurveda,Titanium Dioxide and Octinoxate,Space Brands Limited
+84-1007155,09-1189255,49-5316267,Naturopathy,Peginterferon alfa-2b,Merck Sharp & Dohme Corp.
+14-1065714,59-6874481,66-9787627,Allopathy,Metoprolol Tartrate,"American Regent, Inc."
+55-4656831,96-9946997,50-2177047,Homeopathy,Isopropyl Alcohol,Blossom Pharmaceuticals
+44-4714006,89-6068455,29-1532714,Unani,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone","MSD Consumer Care, Inc."
+90-9312584,42-2410699,28-5343717,Naturopathy,OXYCODONE HYDROCHLORIDE,STAT RX USA LLC
+69-1847604,85-9572017,41-2593116,Naturopathy,tizanidine,"CARACO PHARMACEUTICAL LABORATORIES, LTD."
+97-3343003,72-9238956,66-9250268,Allopathy,AMIODARONE HYDROCHLORIDE,"APP Pharmaceuticals, LLC"
+60-6092774,95-8546415,51-2144129,Homeopathy,Oxygen,Southern ILlinois Surgical Appliance Co
+51-8499084,59-0141555,71-3622272,Allopathy,ATORVASTATIN CALCIUM,Legacy Pharmaceutical Packaging
+04-6161195,89-1735135,15-3778171,Allopathy,Triclosan,"SJ Creations, Inc."
+03-1081663,27-3457281,64-5570136,Ayurveda,OXYCODONE HYDROCHLORIDE,STAT Rx USA LLC
+69-3973249,16-6999185,36-0649358,Ayurveda,Oxacillin,Sandoz Inc
+04-1856659,64-7074919,36-3646046,Naturopathy,GABAPENTIN,Unit Dose Services
+70-1978835,51-4957502,77-1617657,Ayurveda,morphine sulfate,Qualitest Pharmaceuticals
+90-1597010,26-5279123,25-3625119,Unani,witch hazel,McKesson
+20-4742327,85-7663765,39-0605404,Ayurveda,isosorbide mononitrate,Carilion Materials Management
+57-4755451,24-0002343,29-3165858,Homeopathy,fluoxetine hydrochloride,"Warner Chilcott (US), LLC"
+54-0511956,69-2288965,63-4931150,Homeopathy,Carvedilol,"Aphena Pharma Solutions - Tennessee, LLC"
+82-3443479,66-1220224,46-1785350,Homeopathy,lamivudine,"Physicians Total Care, Inc."
+09-6829461,52-8812117,59-9528289,Unani,Fenofibrate,Teva Select Brands
+37-9966998,51-2976027,58-5698108,Ayurveda,Ergocalciferol,"SigmaPharm Laboratories, LLC"
+37-5038137,09-4054174,53-4832814,Ayurveda,Baclofen,Qualitest Pharmaceuticals
+92-3802282,27-1767062,51-6472138,Naturopathy,coagulation factor ix (recombinant),"Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc."
+40-5999352,81-7450974,75-3778191,Allopathy,beclomethasone dipropionate monohydrate,GlaxoSmithKline LLC
+90-6600949,33-4208981,11-4010908,Homeopathy,"Naphazoline hydrochloride, Polysorbate 80",Rohto-Mentholatum (Vietnam) Co. Ltd.
+27-0398132,05-6353792,48-8142194,Ayurveda,warfarin sodium,A-S Medication Solutions LLC
+74-3877256,50-0130991,36-6320217,Unani,Sodium Fluoride,Health and Natural Beauty USA Corp
+90-0773156,64-5322470,57-9234255,Unani,Ibuprofen,Mckesson (Sunmark)
+41-9488495,96-3145282,46-7515480,Naturopathy,Dimethicone,"TONYMOLY CO., LTD."
+74-9803594,77-5055600,06-6958693,Unani,isotretinoin,VersaPharm Incorporated
+29-3636163,57-2111887,50-5853216,Unani,Aqua Foundation,"Koh Gen Do USA, Inc"
+03-0279856,01-7274998,70-3213306,Allopathy,Ethyl Alcohol,"CVS Pharmacy, Inc"
+07-0907206,71-7298991,06-4175328,Naturopathy,Dimethicone,pH R&D LLC
+50-5514778,19-2725105,99-0352483,Homeopathy,Leeks,"Nelco Laboratories, Inc."
+65-3345051,14-3152590,85-8202201,Homeopathy,ciprofloxacin,Mylan Pharmaceuticals Inc.
+97-9391535,91-5775413,30-6390865,Homeopathy,Hydrocodone Bitartrate and Acetaminophen,Libertas Pharma Inc.
+24-3090380,87-8059532,43-2349500,Ayurveda,CALCIUM GLUCONATE,"APP Pharmaceuticals, LLC"
+99-7772522,61-8959135,06-3540841,Unani,lisinopril,"Eon Labs, Inc."
+73-2415820,87-9834731,51-3909222,Ayurveda,Alprazolam,Cardinal Health
+34-2374113,50-8093210,13-6645008,Naturopathy,"Cochlearia Armoracia, Toxoplasma Gondii, Vibrio Cholerae, Candida Albicans, Trichinella Spiralis",The Wellness Center
+92-2089058,74-5953100,17-2887369,Homeopathy,piperacillin sodium and tazobactam sodium,"Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc."
+71-0321971,72-5712912,39-8741828,Allopathy,Sheep Sorrel,"Nelco Laboratories, Inc."
+99-5253902,69-9676664,14-4107816,Ayurveda,thiothixene,Mylan Institutional Inc.
+83-3147727,24-5000827,33-8641056,Unani,Amlodipine besylate,Torrent Pharmaceuticals Limited
+62-3964811,07-4425645,71-6015685,Unani,"FLUOXETINE HYDROCHLORIDE, CHOLINE",Physician Therapeutics LLC
+13-5404357,11-4366466,32-4148456,Ayurveda,"Titnium Dioxide, Ethylhexyl Methoxycinnamate, Octocrylene","Carver Korea Co.,Ltd"
+70-1421573,26-9430932,78-8339610,Naturopathy,Paroxetine Hydrochloride,Aurobindo Pharma Limited
+05-5524166,91-3681259,44-6685917,Naturopathy,Common Sagebrush,"Nelco Laboratories, Inc."
+33-3150370,35-3147463,03-1194852,Ayurveda,nevirapine,Boehringer Ingelheim Pharmaceuticals Inc.
+43-5159383,36-4227234,97-1422569,Allopathy,MENTHOL,The Fresh Market
+44-8689597,84-6290819,64-2991909,Homeopathy,"azithromycin for injection injection, powder, lyophilized, for solution",APOTEX CORP.
+48-0151805,42-8513231,21-9461250,Naturopathy,FINASTERIDE,Unit Dose Services
+69-1651942,73-7070986,19-5810224,Unani,oxymetazoline hydrochloride,Target Corporation
+55-7698270,07-1794285,65-7343100,Allopathy,"Cimicifuga Racemosa, Hypericum Perforatum",Paramesh Banerji Life Sciences LLC
+11-9803331,26-5134833,00-7852881,Ayurveda,Naproxen Sodium,"EQUATE (Walmart Stores, Inc.)"
+92-0710027,42-5573266,09-1176479,Naturopathy,Acetaminophen,Target Corporation
+93-1288773,84-5678433,79-3440125,Naturopathy,Spiny Pigweed,"Nelco Laboratories, Inc."
+56-1772411,64-7613351,16-1630804,Homeopathy,pentosan polysulfate sodium,"Physicians Total Care, Inc."
+87-5827917,26-3912327,79-5903442,Naturopathy,THUJA OCCIDENTALIS,HOMEOLAB USA INC
+90-8874187,59-5485495,58-7982723,Naturopathy,methylprednisolone,Greenstone LLC
+06-8059724,88-4506080,81-5312266,Naturopathy,RISEDRONATE SODIUM,Warner Chilcott Pharmaceuticals Inc.
+49-8561417,62-7949370,27-2993897,Naturopathy,CAMPHOR MENTHOL,"DOCTOR HOY'S, LLC"
+82-6629594,74-2093583,48-8682242,Allopathy,Pyrithione zinc,CVS Pharmacy
+83-2785059,32-4360263,07-4611737,Homeopathy,ETHYL ALCOHOL,Tween Brands Inc
+80-7740446,12-7559492,15-9623606,Homeopathy,Nicotine Polacrilex,Walgreen Company
+12-1522709,65-2026071,98-7170504,Allopathy,Lidocaine,Lake Erie Medical DBA Quality Care Products LLC
+01-4787007,36-0744463,63-6067613,Ayurveda,"Dimethicone, Octinoxate, Oxybenzone, Avobenzone, and Octocrylene",Blistex Inc.
+32-8526202,93-1529467,98-3066064,Unani,Budesonide,"Physicians Total Care, Inc."
+95-3275816,37-0073571,04-5632499,Homeopathy,Doxorubicin Hydrochloride,Pfizer Laboratories Div Pfizer Inc
+86-2679292,13-0428420,13-9423073,Ayurveda,risperidone,REMEDYREPACK INC.
+61-2857284,21-7804628,68-5663636,Naturopathy,cinacalcet hydrochloride,Carilion Materials Management
+89-9341889,50-9302946,43-9112523,Unani,CANDIDA PARAPSILOSIS and PENICILLIUM GLABRUM,Syntrion GmbH
+38-1879575,07-5661221,85-3121750,Allopathy,Lombardy Poplar,"Nelco Laboratories, Inc."
+82-5500695,26-0743610,04-1588600,Unani,Air,"Airgas Southwest, Inc."
+45-2609496,04-8299212,65-2730764,Unani,metoprolol succinate and hydrochlorothiazide,AstraZeneca Pharmaceuticals LP
+19-9257392,65-1882868,50-8555110,Ayurveda,HYDROCORTISONE,Clinical Therapeutic Solutions
+75-2662009,52-4997294,22-9970163,Homeopathy,Acetaminophen,Chain Drug Marketing Association Inc.
+45-0129571,38-6370953,26-9285985,Homeopathy,"dextromethorphan HBr, guaifenesin, phenylephrine HCl",Kroger Company
+88-7094020,26-6347018,09-6643659,Allopathy,"Octinoxate, Titanium Dioxide","Merle Norman Cosmetics, Inc"
+04-5228028,91-8652888,00-0003501,Ayurveda,Meloxicam,"International Labs, Inc."
+71-3676341,63-2120944,23-3757912,Homeopathy,Oxycodone hydrochloride and Acetaminophen,Qualitest Pharmaceuticals
+52-7181290,33-9247593,84-8083855,Allopathy,Loratadine,"Physicians Total Care, Inc."
+22-0657609,54-4432803,46-0606863,Homeopathy,ATORVASTATIN CALCIUM,Legacy Pharmaceutical Packaging
+96-1724412,51-3778506,90-1367300,Allopathy,Willow Black,"ALK-Abello, Inc."
+85-9118377,23-0267008,80-2612162,Homeopathy,desonide,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.
+78-4880579,14-1559171,80-6031922,Allopathy,Salicylic Acid,Neutrogena Corporation
+97-9611087,50-2439301,46-6226557,Homeopathy,HUMAN IMMUNOGLOBULIN G,CSL Behring AG
+03-4831173,49-6690010,15-4095766,Unani,Oxygen,THH Acquisition LLC I dba Total Home Health
+55-2006138,92-4987289,50-8853297,Unani,carboprost tromethamine,Pharmacia and Upjohn Company
+70-8740356,26-9583398,96-0217826,Homeopathy,oxycodone hydrochloride and acetaminophen,"Blenheim Pharmacal, Inc."
+28-9582800,07-1296109,33-7062134,Ayurveda,Bacitracin Zinc,GERITREX CORP
+19-9685672,35-6082718,03-9662421,Naturopathy,verapamil hydrochloride,Mylan Pharmaceuticals Inc.
+58-0814100,12-8128615,12-9089565,Naturopathy,Cimetidine,Carilion Materials Management
+68-3125450,29-4841410,90-5710844,Naturopathy,Diatrizoate meglumine and Diatrizoate sodium,Mallinckrodt Inc.
+22-8554383,49-8488131,57-0990652,Unani,"Bacitracin Zinc, Polymyxin B Sulfate",Menper Distributors Inc.
+94-0288561,46-6650307,52-3460691,Allopathy,ixabepilone,"E.R. Squibb & Sons, L.L.C."
+65-8559418,78-6009428,90-2206926,Allopathy,Dimethicone,Rejoice International
+30-9724908,40-6725389,73-3801793,Allopathy,Pyrithione Zinc,DERMAdoctor
+96-7919895,67-0136806,78-1728598,Allopathy,docusate sodium,Qualitest Pharmaceuticals
+03-8692796,99-0462835,98-2048607,Homeopathy,Naproxen,REMEDYREPACK INC.
+05-6276871,88-3801830,59-6333737,Allopathy,Trazodone Hydrochloride,Contract Pharmacy Services-PA
+51-6500037,12-2656137,56-4661725,Naturopathy,Hydrocortisone,"Paddock Laboratories, Inc."
+15-6771279,44-4873253,79-9823661,Ayurveda,ONDANSETRON,Sun Pharmaceutical Industries Limited
+15-7236498,39-3329915,99-9013003,Naturopathy,"Chondrus crispus, Fucus vesiculosus, Thyroidinum (Suis), Cadmium iodatum, Cadmium sulphuratum, Iodium, Uranium nitricum, Radium bromatium,","Deseret Biologicals, Inc."
+88-4892908,16-2240113,05-6398601,Naturopathy,Treatment Set TS347227,"Antigen Laboratories, Inc."
+01-0618302,91-9254349,15-8701584,Allopathy,Octinoxate and Oxybenzone,Ventura International LTD.
+16-3760290,84-6075046,56-7188916,Naturopathy,CYCLOBENZAPRINE HYDROCHLORIDE,"New Horizon Rx Group, LLC"
+01-3161204,96-8860932,80-5378143,Homeopathy,Choline Salicylate and Caffeine,"First Aid Beverages, Inc."
+11-6978991,46-2861152,39-8013331,Allopathy,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",AMOREPACIFIC
+70-5565341,17-9835513,82-7154507,Ayurveda,Hydrocodone Bitartrate and Acetaminophen,Apotheca Inc.
+33-7980642,14-8832457,57-7253469,Homeopathy,Bupropion Hydrochloride,"Physicians Total Care, Inc."
+76-4591276,12-7906135,92-9034708,Allopathy,furosemide,Cardinal Health
+31-8053046,84-8068364,62-2754140,Allopathy,Desipramine Hydrochloride,Actavis Inc.
+71-4744145,13-0190392,49-5747245,Homeopathy,PREDNISONE,REMEDYREPACK INC.
+13-2118900,17-2172878,92-0197009,Unani,"OCTINOXATE, TITANIUM DIOXIDE",Parfums Christian Dior
+72-3728030,28-5036568,90-3234699,Ayurveda,ALTERNARIA TENUIS,"ALK-Abello, Inc."
+31-2066877,11-3531249,41-4706967,Unani,Lorazepam,"PD-Rx Pharmaceuticals, Inc."
+30-5500699,75-4313308,84-3500578,Homeopathy,"AVOBENZONE, OCTINOXATE, OCTISALATE","Laura Geller Beauty, LLC"
+41-1845989,36-4210640,62-0750252,Ayurveda,ZINC ACETATE ANHYDROUS and ZINC GLUCONATE,"Matrixx Initiatives, Inc."
+83-2417741,07-3856543,88-6475001,Ayurveda,Carvedilol,Bryant Ranch Prepack
+35-4268943,53-7295197,80-3481985,Allopathy,SOTALOL HYDROCHLORIDE,Global Pharmaceuticals
+61-6285324,49-2914172,90-8637369,Ayurveda,Peppermint Hand Sanitizer,Unique Holding Group Inc
+91-2124838,00-4910504,08-0576141,Ayurveda,Glycerin,"AMI Cosmetic Co.,Ltd."
+03-0301849,60-4989007,77-7736026,Naturopathy,Risperidone,Apotex Corp.
+70-9839963,52-8138686,01-5427767,Unani,TRICLOSAN,"Donovan Industries, Inc"
+10-7514569,40-9387965,29-1708876,Naturopathy,Rough (Redroot) Pigweed,"Antigen Laboratories, Inc."
+12-6199898,58-1505593,11-0129206,Unani,Fludeoxyglucose F 18,Washington University School of Medicine
+57-1187106,89-0499233,88-2342036,Naturopathy,SODIUM MONOFLUOROPHOSPHATE,"CCA Industries, Inc."
+14-2464109,98-9498393,09-7921706,Unani,Enoxaparin sodium,"Amphastar Pharmaceuticals, Inc."
+66-1624811,66-6930287,06-6148233,Ayurveda,Lemon,"Nelco Laboratories, Inc."
+57-9295675,98-5510147,25-1900637,Ayurveda,Gabapentin,"Liberty Pharmaceuticals, Inc."
+59-2145707,71-4510695,70-4384725,Naturopathy,Levonorgestrel,"Syzygy Healthcare Solutions, LLC"
+50-1250754,57-0150731,79-7949930,Homeopathy,CLOZAPINE,"Caraco Pharmaceutical Laboratories, Ltd."
+46-7262921,63-1913991,05-8969107,Allopathy,Currant,"Antigen Laboratories, Inc."
+57-1321217,87-4500581,37-8644938,Unani,SILICEA,HOMEOLAB USA INC
+94-2022240,00-9388034,61-2756651,Ayurveda,Warfarin Sodium,REMEDYREPACK INC.
+12-1648852,57-8610336,10-3582666,Homeopathy,TRICLOCARBAN,Keefe Group
+71-0829407,62-4060270,61-4958284,Ayurveda,Olanzapine,"Dispensing Solutions, Inc."
+57-6937121,85-3946018,28-6179618,Ayurveda,Urine specimen collection kit,"Pharmaceutica North America, Inc"
+29-8013258,60-9245143,27-7386670,Ayurveda,Cetirizine Hydrochloride,Target Corporation
+71-1765306,18-6689440,62-8781319,Homeopathy,Triclosan,"Deb USA, Inc."
+40-0708921,13-6758084,49-5069687,Naturopathy,nitroglycerin,Merck Sharp & Dohme Corp.
+39-5662814,41-2536866,94-4466376,Ayurveda,Raloxifene Hydrochloride,Teva Pharmaceuticals USA Inc
+58-0485843,53-8895839,58-6055659,Allopathy,Octinoxate and Zinc Oxide,Procter & Gamble Manufacturing Company
+11-8767993,17-7690470,56-4519381,Unani,Cerebellum Thalamus A,Uriel Pharmacy Inc.
+65-4681485,82-2444509,73-0546134,Unani,Indapamide,REMEDYREPACK INC.
+57-1986597,12-3938214,80-7081463,Homeopathy,Isoniazid,Barr Laboratories Inc.
+90-5461065,65-4673868,37-6195028,Homeopathy,Titanium Dioxide and Zinc Oxide,"Tarte, Inc"
+74-0419415,74-8450934,90-1673719,Naturopathy,Levofloxacin,Wockhardt USA LLC.
+21-4726629,01-4110050,89-3376889,Allopathy,Glipizide,"Watson Laboratories, Inc."
+61-3128963,98-9237081,47-8754473,Homeopathy,Folic Acid,"NCS HealthCare of KY, Inc dba Vangard Labs"
+11-5725663,31-5193724,49-5981611,Homeopathy,Hydroquinone,International Beauty Exchange
+05-7264074,90-1695512,26-8432838,Ayurveda,"Loratadine, Pseudoephedrine",L Perrigo Company
+89-8906185,98-6611454,97-9811782,Ayurveda,Alcohol,"NATURE REPUBLIC CO., LTD."
+76-0023048,72-6459872,01-4189736,Homeopathy,DIPYRIDAMOLE,"AvKARE, Inc."
+62-9916359,32-2134036,80-1114490,Homeopathy,insulin glargine,REMEDYREPACK INC.
+19-7355951,99-6946209,08-6899415,Allopathy,DEXAMETHASONE SODIUM PHOSPHATE,Cardinal Health
+02-2822305,02-7692295,65-4167940,Ayurveda,Aluminum Zirconium Pentachlorohydrex Gly,The Dial Corporation
+47-9231376,46-2812027,24-5741245,Unani,Mirtazapine,KAISER FOUNDATION HOSPITALS
+84-1887576,54-9776755,82-8323406,Homeopathy,Alcohol,ALILY (ZHANGZHOU) BATH PRODUCTS LTD.
+18-2538207,00-3552322,02-0135327,Naturopathy,"Arsenicum album, Baptisia tinctoria, Carbo vegetabilis, Chininum sulphuricum, Cinchona officinalis, Conium maculatum, Echinacea purpurea, Ferrum metallicum, Hydrastis canadensis, Kali chloricum, Mercurius corrosivus and Serum anguillae",King Bio Inc.
+56-4735440,04-2950984,18-4741380,Naturopathy,spironolactone,Mylan Pharmaceuticals Inc.
+72-9097184,21-6690706,64-1769698,Ayurveda,BELLIS PERENNIS,Washington Homeopathic Products
+63-2981862,21-2847431,55-1636275,Ayurveda,levothyroxine sodium,Cardinal Health
+16-8245488,16-9079882,96-0467222,Unani,ziprasidone hydrochloride,State of Florida DOH Central Pharmacy
+09-6047585,84-8053454,26-1353579,Unani,levocetirizine dihydrochloride,Winthrop U.S.
+45-1402673,91-7330629,59-5856027,Homeopathy,pantoprazole sodium,Cardinal Health
+11-4548408,61-1098858,93-9912003,Allopathy,Aspirin,COSTCO WHOLESALE CORPORATION
+34-0017540,00-1150363,11-4236733,Allopathy,MORPHINE SULFATE,STAT RX USA LLC
+26-4062866,93-2569559,19-1494187,Allopathy,TOPIRAMATE,State of Florida DOH Central Pharmacy
+10-9752995,60-6702937,01-2638709,Allopathy,azithromycin,Greenstone LLC
+56-6439870,77-3207062,59-3731439,Unani,"Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride","Laser Pharmaceuticals, LLC"
+27-4416867,33-5280751,14-4348599,Naturopathy,CETYLPYRIDINIUM CHLORIDE,JN Pharm
+28-6325109,87-6784367,05-9903271,Homeopathy,Amitriptyline Hydrochloride,Sandoz Inc
+17-4626811,24-9626173,96-3370870,Allopathy,ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY,Procter and Gamble Manufacturing Company
+38-2585660,92-3666506,55-9836645,Homeopathy,Aluminum Zirconium Tetrachlorohydrex GLY,Conopco Inc. d/b/a Unilever
+51-2214012,99-3334354,62-4575740,Naturopathy,"BACITRACIN ZINC,NEOMYCIN SULFATE,POLYMYXIN B SULFATE",Genuine First Aid LLC
+64-8474918,18-0217963,66-9051424,Naturopathy,Naproxen Sodium,Target Corporation
+46-7134450,37-5806517,32-7396947,Homeopathy,fentanyl,Apotex Corp.
+61-4582107,35-3985471,20-8028626,Unani,Allantoin,"Cosmetics Institute Technology Co., Ltd."
+53-6914620,09-4693693,31-1485201,Ayurveda,Amoxicillin,"Physicians Total Care, Inc."
+37-9577882,13-4355039,34-7043285,Allopathy,TITANIUM DIOXIDE,Aveda Corporation
+38-7061697,02-0543148,70-4396107,Homeopathy,"Calcarea phosphorica, Chamomilla, Coffea cruda","Church & Dwight Co., Inc."
+41-9816263,34-8594298,46-0864192,Homeopathy,Insulin human,REMEDYREPACK INC.
+58-3841648,80-8748842,78-8651764,Homeopathy,eurotium herbariorum,"Allergy Laboratories, Inc."
+12-1062414,18-2897217,86-9310019,Ayurveda,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",Barr Laboratories Inc.
+62-2416710,29-2039717,23-0022021,Naturopathy,Lovastatin,REMEDYREPACK INC.
+83-2240791,57-9149014,68-5211821,Naturopathy,Geotrichum candidum,"Antigen Laboratories, Inc."
+57-8079731,81-1658997,91-1859751,Unani,Methocarbamol,Rebel Distributors Corp
+87-4008846,87-3468198,31-3509618,Ayurveda,Bethanechol Chloride,Major Pharmaceuticals
+34-5378075,38-2929040,67-0727695,Ayurveda,sildenafil citrate,"Aphena Pharma Solutions - Tennessee, LLC"
+49-3446470,70-9672180,49-8271950,Allopathy,Progesterone,West-ward Pharmaceutical Corp
+25-6176063,11-3193856,68-7864394,Allopathy,Gemfibrozil,Cardinal Health
+77-3886885,45-9305944,04-0089619,Unani,trihexyphenidyl hydrochloride,State of Florida DOH Central Pharmacy
+44-6687931,90-5701982,14-0882066,Allopathy,Dimethicone,"Medline Industries, Inc."
+38-7855764,41-6689058,63-6775963,Homeopathy,Standardized Sweet Vernal Grass Pollen,"Antigen Laboratories, Inc."
+32-9419840,84-8371091,78-7248233,Ayurveda,Bisacodyl,Geri-Care Pharmaceutical Corp
+24-3950999,37-3981168,90-6621810,Allopathy,Hydrocortisone,"Taro Pharmaceuticals U.S.A., Inc."
+89-6144495,19-6010446,89-1648516,Homeopathy,dextromethorphan polistirex,Kinray
+33-0873605,14-6253931,01-0397086,Unani,Lisinopril and hydrochlorothiazide,Rebel Distributors Corp
+75-5013588,12-4872295,35-1287798,Ayurveda,"OCTOCRYLENE, OCTINOXATE, TITANIUM DIOXIDE",Pierre Fabre Dermo Cosmetique
+42-9459877,85-4824443,13-4484573,Homeopathy,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",CVS Pharmacy
+45-2413432,03-5724787,47-3389863,Naturopathy,Guaifenesin,L. Perrigo Company
+91-8334782,20-3566229,92-9392872,Unani,ALLANTOIN,"NATURE REPUBLIC CO., LTD."
+22-3437153,46-7448781,95-2745787,Allopathy,Donepezil Hydrochloride,McKesson Packaging Services a business unit of McKesson Corporation
+22-2238724,52-6196741,75-5718506,Unani,LISINOPRIL,Apotex Corp.
+95-8883450,53-6968552,98-6479906,Ayurveda,Phentermine Hydrochloride,A-S Medication Solutions LLC
+26-3323391,58-7235776,16-8825566,Allopathy,Entacapone,Wockhardt Limited
+60-6204306,70-4266125,57-6044172,Unani,Bluefish,"Nelco Laboratories, Inc."
+71-0322480,39-5343750,58-2899109,Unani,Gabapentin,REMEDYREPACK INC.
+14-4447552,27-2070684,01-6110083,Allopathy,Levetiracetam,"Physicians Total Care, Inc."
+96-5903364,56-9835654,20-1505608,Ayurveda,Acetaminophen and Phenylephrine HCl,Wal-Mart Stores Inc
+63-2380722,08-1602927,81-5860313,Ayurveda,Pyrithione Zinc,"Biometics Co.,Ltd."
+84-8057001,28-3629393,51-6319438,Ayurveda,Aluminum Sesquichlorohydrate,Ventura Corporation Ltd.
+90-2681701,86-5404072,66-0849355,Naturopathy,Barium,White Manufacturing Incorporated DBA Micro-West
+57-5147636,92-6955252,59-1341984,Unani,Ibuprofen,McKesson
+15-5046127,63-3744014,10-7604492,Naturopathy,FORMALDEHYDE,Rochester Pharmaceuticals
+14-7845917,82-8863016,91-9349837,Ayurveda,"ascorbic acid, cholecalciferol, .alpha.-tocopherol, d-, pyridoxine hydrochloride, folic acid, biotin, calcium carbonate, docusate calcium, ferrous fumarate and doconexent",Virtus Pharmaceuticals LLC
+94-4449191,15-6621288,86-9600484,Naturopathy,Alcohol,Procter & Gamble Manufacturing Company
+13-7216351,05-0320624,35-9409371,Naturopathy,Hydrochlorothiazide,Rebel Distributors Corp
+12-7383935,75-8706514,00-8781262,Homeopathy,erlotinib hydrochloride,"Physicians Total Care, Inc."
+88-0764341,16-3221632,54-0857673,Ayurveda,Tolmetin Sodium,Teva Pharmaceuticals USA Inc
+88-9149934,34-6630569,94-1756852,Allopathy,Chloroxylenol,Metrex Research
+33-4395884,21-2225218,16-3924578,Unani,Moexipril Hydrochloride and Hydrochlorothiazide,"Paddock Laboratories, Inc."
+04-6951678,25-2174054,10-7160958,Allopathy,Lamotrigine,"Taro Pharmaceuticals U.S.A., Inc."
+76-2771727,51-9876735,64-5219467,Unani,Nystatin,"VistaPharm, Inc"
+99-1962533,29-2566106,88-2496440,Ayurveda,"Acetaminophen, Dextromethorphan HBr, and Diphenhydramine HCl",Health Care Products
+57-1069950,41-0619910,77-7091417,Ayurveda,ALCOHOL,G&G Medical Products LLC
+95-1369972,08-4448318,10-9234005,Ayurveda,SALICYLIC ACID,Home Health
+03-6490376,12-6442433,37-8384335,Unani,Levetiracetam,Torrent Pharmaceuticals Limited
+35-9082829,35-1131142,32-6702518,Homeopathy,"Influenzinum, Aconitum nap., Aralia quinquefolia, Arsenicum alb., Bryonia, Euphrasia, Gaultheria procumbens, Gelsemium, Histaminum hydrochloricum, Hydrastis, Kali bic., Lycopodium, Nux vom., Phosphorus, Pulsatilla, Rhus toxicodendron, Salvia, Sticta, Thuja occ., Verbascum, Echinacea","Newton Laboratories, Inc."
+57-4271469,24-9947007,15-5850022,Ayurveda,lisinopril and hydrochlorothiazide,Mylan Pharmaceuticals Inc.
+98-7705304,15-7158691,40-0184505,Naturopathy,"Fentanyl Citrate, Bupivacaine HCl",Cantrell Drug Company
+49-5082400,06-5583430,73-0487057,Allopathy,isotretinoin,"Physicians Total Care, Inc."
+24-5913351,21-0389926,04-7533804,Homeopathy,Acetazolamide,"Duramed Pharmaceuticals, Inc."
+41-7834692,74-2740684,14-6735338,Ayurveda,Clobetasol Propionate,Rebel Distributors Corp
+17-0456789,08-8166619,17-3771746,Homeopathy,Cephalexin,Aurobindo Pharma Limited
+10-2594272,40-8010357,74-5580269,Naturopathy,Sucralfate,"AvKARE, Inc."
+18-7762619,23-8300696,33-3444605,Naturopathy,"Abies nigra, Condurango, Conium maculatum, Iris versicolor, Magnesia carbonica, Robinia pseudoacacia",King Bio Inc.
+98-5699799,08-5647979,47-2470466,Unani,"Avobenzone, Homosalate, Octocrylene, Octyl Salicylate, Oxybenzone",Bioelements Inc
+44-3378787,18-7732034,13-5685725,Ayurveda,"BENZOCAINE, MENTHOL","Bestco, Inc."
+94-4531541,07-1224493,11-4838382,Unani,Amoxicillin,A-S Medication Solutions LLC
+15-7059614,93-1689062,28-0544606,Ayurveda,Isopropyl Alcohol,Universal Distribution Center LLC
+99-1369040,97-9651156,66-7918172,Naturopathy,Lamotrigine,"Glenmark Generics Inc., USA"
+90-4168420,16-1175709,33-0423537,Unani,Galantamine,Aurobindo Pharma Limited
+99-2822852,42-3054165,79-2961701,Unani,Acetaminophen,Rite Aid Corporation
+03-3918676,41-4687447,93-2554443,Unani,Naproxen,Bryant Ranch Prepack
+14-9144468,57-7118175,63-5859173,Allopathy,CAPTOPRIL,REMEDYREPACK INC.
+40-4638052,35-6692453,27-3584072,Homeopathy,Black Cottonwood,"Antigen Laboratories, Inc."
+98-9268430,04-3913277,68-4133391,Naturopathy,"OCTINOXATE, TITANIUM DIOXIDE",Parfums Christian Dior
+65-4155059,68-1704352,17-7898874,Homeopathy,Metoprolol Succinate,Wockhardt Limited
+38-0034204,68-9695740,59-0265231,Allopathy,Tea Tree Oil,Integria Healthcare (US) Inc
+68-7145358,65-8551390,40-9235128,Unani,Leflunomide,Teva Pharmaceuticals USA Inc
+90-8826862,94-9601362,23-4845387,Naturopathy,PRAVASTATIN SODIUM,Sandoz Inc
+13-3837933,18-4700745,44-1232972,Unani,Minoxidil,Rite Aid
+27-7408583,36-1372744,46-8000107,Naturopathy,colesevelam hydrochloride,"Physicians Total Care, Inc."
+40-6565045,54-3150673,39-5686412,Homeopathy,Pork Sus sp.,Jubilant HollisterStier LLC
+68-9191095,95-3521927,23-0696799,Ayurveda,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",Bryant Ranch Prepack
+34-8425704,78-8863353,91-8801569,Unani,diltiazem hydrochloride,Carilion Materials Management
+57-8806157,20-9487235,61-5194661,Unani,Lorazepam,Aidarex Pharmaceuticals LLC
+48-3088348,33-4249614,16-0455290,Allopathy,Donepezil Hydrochloride,Contract Pharmacy Services-PA
+37-6571675,54-3609173,13-5126231,Ayurveda,Octinoxate and Titanium dioxide,"SHISEIDO CO., LTD."
+65-5889430,10-8469254,51-7594966,Naturopathy,"Benzocaine, Butamben, and Tetracaine Hydrochloride","Cetylite Industries, Inc."
+35-8617953,42-1649332,76-9460059,Naturopathy,epinastine hydrochloride,"Allergan, Inc."
+78-2801340,92-3184623,64-2435020,Homeopathy,povidone-iodine,"H and P Industries, Inc. dba Triad Group"
+55-5704043,41-2509626,26-1934505,Homeopathy,OCTINOXATE,"Ajou Medics Co., Ltd"
+44-2824977,51-5423980,40-6084524,Allopathy,Fexofenadine Hydrochloride,American Health Packaging
+27-1555206,12-3955408,50-3777431,Ayurveda,ZINC OXIDE,Guthy-Renker LLC
+64-2192276,42-9735545,76-6839085,Naturopathy,trichoderma viride,"Allergy Laboratories, Inc."
+55-3032439,61-3219692,61-1272227,Allopathy,Arnica Apis Nervus trigeminus Special Order,Uriel Pharmacy Inc.
+22-6076096,38-2563564,59-5885858,Unani,"avobenzone, homosalate, octisalate, octocrylene","Sun & Skin Care Research, Inc"
+86-4777814,38-2472859,25-4259169,Homeopathy,Duloxetine Hydrochloride,"Preferred Pharmaceuticals, Inc."
+00-6738749,53-5309011,80-8498631,Ayurveda,Robitussin DM,Rite Aid
+60-2118901,33-8051926,65-6693203,Ayurveda,"Ammonium carbonicum, Apis mellifica, Chamomilla, Rhus toxicodendron, Urtica urens","Native Remedies, LLC"
+93-0910931,22-6291887,25-2535425,Naturopathy,Salicylic Acid,"Wasatch Product Development, LLC"
+50-5075633,78-6304778,29-0627891,Homeopathy,Dextromethorphan Hydrobromide and Promethazine Hydrochloride,REMEDYREPACK INC.
+02-3718317,53-3330025,92-5225680,Allopathy,"Adrenalinum, Bromus ramosus, flos, Calcarea iodata, Capsicum annuum, Carduus marianus, Carpinus betulus, flos, Chelidonium majus, Chionanthus virginica, Cinchona officinalis, Cytisus Scoparius, Juglans regia, flos, Mentha piperita, Oxytropis lambertii, Parthenium, Phosphoricum acidum, Picricum acidum, Saponaria officinalis, Scleranthus annuus, flos, Zincum metallicum",King Bio Inc.
+11-5259729,31-5354407,29-8557935,Naturopathy,ALCOHOL,"Evonik Stockhausen, LLC"
+60-7571962,30-2535636,33-4820743,Allopathy,Indomethacin,REMEDYREPACK INC.
+84-1591121,84-6959331,06-6461282,Unani,Metoprolol Tartrate,Contract Pharmacy Services-PA
+82-9703373,60-0701298,19-6191452,Unani,Oxygen,"MedQuest, Inc."
+07-7472213,30-6933382,96-7223970,Homeopathy,levothyroxine sodium,Mylan Institutional Inc.
+53-2555170,75-9801636,19-5958971,Allopathy,Amlodipine Besylate,Secan Pharmaceuticals Inc
+10-4976844,78-7041282,29-0175271,Allopathy,Bacitracin zinc and Polymyxin B sulfate,"Phoenix Global Supply Group, Inc"
+13-8466986,63-0956221,77-2435780,Naturopathy,diphenoxylate hydrochloride and atropine sulfate,"Aphena Pharma Solutions - Tennessee, LLC"
+55-0232169,36-8963687,26-0941918,Naturopathy,"Acetaminophen, Aspirin and caffeine",Rite Aid
+22-3253631,97-2813424,30-4894813,Allopathy,Mexiletine Hydrochloride,"AvKARE, Inc."
+38-8488910,62-5084011,63-2482971,Allopathy,Levalbuterol,Teva Pharmaceuticals USA Inc
+94-4729341,62-4747269,83-9094448,Naturopathy,Benzoyl Peroxide,"Neutraderm, Inc."
+20-8839958,99-9955473,75-4148256,Homeopathy,ACETAMINOPHEN,"MATERNAL SCIENCE, LLC"
+43-5085598,83-2729204,73-3665470,Allopathy,Isopropyl Alcohol,Rite Aid
+54-8399462,52-6804951,94-7177866,Allopathy,"ENSULIZOLE, HOMOSALATE, OCTINOXATE, OXYBENZONE, TITANIUM DIOXIDE","Ventura Corporation, LTD"
+74-7133162,74-4776690,41-8289096,Homeopathy,"Avobenzone, Octinoxate, Octisalate, Oxybenzone",JAFRA COSMETICS INTERNATIONAL
+63-7568476,33-1127409,68-2196566,Naturopathy,Menthol,JMD All Star Impex Inc
+17-7053244,72-9317883,16-5329070,Ayurveda,Ibuprofen,Supervalu Inc
+08-3333224,25-2930257,53-5609345,Unani,methylprednisolone,Pharmacia and Upjohn Company
+25-9689685,94-7946767,24-7118543,Homeopathy,PIPERACILLIN and TAZOBACTAM,Apotex Corporation
+97-3648990,18-9029411,93-2488728,Ayurveda,Titanium dioxide,"SHISEIDO CO., LTD."
+98-2768056,27-4922235,17-3878135,Allopathy,CALENDULA OFFICINALIS FLOWERING TOP,Washington Homeopathic Products
+81-7635112,66-2882793,46-3024784,Homeopathy,"carbidopa, levodopa and entacapone",Wockhardt Limited
+63-3203650,60-6090098,51-3463297,Naturopathy,tramadol hydrochloride,Bryant Ranch Prepack
+03-6588623,57-9013397,36-6200723,Naturopathy,Caffeine,Kroger Company
+25-4604945,84-3727922,86-3679234,Unani,Sodium fluoride,"Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc."
+47-8009677,46-4041683,07-6634481,Naturopathy,"ascorbic acid, cholecalciferol, .alpha.-tocopherol acetate, dl-, pyridoxine hydrochloride, folic acid, 5-methyltetrahydrofolic acid, cyanocobalamin, biotin, calcium formate, ferrous asparto glycinate, potassium iodide, magnesium oxide, doconexent and icosapent","Avion Pharmaceuticals, LLC"
+83-8117186,92-5149075,08-9775046,Homeopathy,Salicylic Acid,Neutrogena Corporation
+56-8527782,51-3322298,08-2615812,Unani,Phenylephrine Hydrochloride,Cardinal Health
+26-5962090,29-7540144,44-0307160,Ayurveda,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Western Family Foods Inc
+30-8582398,72-3889797,04-8259308,Homeopathy,clonidine,Mylan Pharmaceuticals Inc.
+50-6662466,44-8510219,93-1960191,Homeopathy,Chlorpromazine Hydrochloride,American Health Packaging
+09-4304377,64-5932538,69-6332903,Unani,Pantoprazole Sodium,Sun Pharma Global FZE
+43-1089995,27-9135514,89-1962620,Homeopathy,Labetalol Hydrochloride,"Physicians Total Care, Inc."
+31-3405877,23-0324574,30-5334664,Ayurveda,Triclosan,"Charm-Tex, Inc"
+44-5396715,89-4034924,08-4921712,Allopathy,Lamotrigine,"Upsher-Smith Laboratories, Inc."
+08-8634883,84-6160596,55-8019193,Allopathy,"Acetominophen, Phenylephrine Hydrochloride and Pheniramine Maleate","SCOT-TUSSIN Pharmacal Co., Inc."
+54-1381413,43-3714086,39-1830487,Naturopathy,Macadamia Nut,"Nelco Laboratories, Inc."
+48-1127301,93-4524016,94-4302940,Naturopathy,Dextromethorphan Hydrobromide and Guaifenesin,The Kroger Co.
+54-8582842,02-2680436,42-6856477,Allopathy,KETOROLAC TROMETHAMINE,Cardinal Health
+47-8754872,93-6633695,85-8841231,Ayurveda,Methocarbamol,"PD-Rx Pharmaceuticals, Inc."
+06-4250498,70-1411081,15-6090854,Allopathy,Primidone,"AvKARE, Inc."
+60-2822427,94-0501915,31-2456787,Homeopathy,Diphenhydramine HCl,"Safeway, Inc."
+09-0864044,85-5611592,94-5541053,Ayurveda,finasteride,"Ingenus Pharmaceuticals, LLC"
+56-2394748,55-7853457,55-8331303,Naturopathy,"OCTINOXATE, OXYBENZONE","Ventura International, LTD"
+02-3542966,37-8755564,62-4234241,Ayurveda,omeprazole,Chain Drug Marketing Association
+92-2687383,35-0978343,08-1487787,Naturopathy,Promethazine Hydrochloride,Bryant Ranch Prepack
+36-8085623,51-7884920,47-7660410,Unani,"Agrimonia eupatoria, flos, Arsenicum album, Ceratostigma willmottianum, flos, cuprum metallicum, Cyclamen europaeum, Digitalis purpurea, Ignatia amara, Juglans regia, flos, Millefolium, Natrum muriaticum, Phosphoricum acidum, Pinus sylvestris, flos, Thuja occidentalis, Verbascum thapsus",King Bio Inc.
+75-9838517,07-7667051,56-8068919,Homeopathy,Nortriptyline Hydrochloride,Bryant Ranch Prepack
+37-8028699,33-2450821,85-6637041,Homeopathy,"Dopamine hydrochloride,","BioActive Nutritional, Inc."
+36-8958431,91-8972310,79-4173743,Allopathy,Benzocaine,"Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc"
+87-4608432,96-4936180,39-5696929,Homeopathy,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE","THEFACESHOP CO., LTD"
+89-4318674,34-7613532,37-9818874,Ayurveda,Cefuroxime Axetil,Wockhardt USA LLC.
+09-6532527,06-4974357,21-7967900,Homeopathy,MATRICARIA RECUTITA ATROPA BELLADONNA ROOT TOBACCO LEAF,Uriel Pharmacy Inc
+72-9540721,75-5174020,57-4631239,Homeopathy,Octreotide Acetate,"Teva Parenteral Medicines, Inc"
+54-0880749,96-7048977,43-3810891,Homeopathy,"Aceetaminophen, Guaifenesin and Phenylephrine HCl",WALGREEN CO.
+46-0431600,15-7260424,30-3968384,Allopathy,"Guaifenesin, Phenylephrine Hydrochloride","International Ethical Laboratories, Inc."
+71-3222808,84-2880756,11-9887654,Unani,citalopram,Mylan Pharmaceuticals Inc.
+31-3326037,32-6912039,78-3171524,Ayurveda,OXYGEN,"Holston Gases, Inc"
+52-2598482,08-4288359,38-2897546,Ayurveda,PYRIDOSTIGMINE BROMIDE,REMEDYREPACK INC.
+60-4649538,44-1226387,44-2884092,Ayurveda,Acetaminophen,Kinray LLC
+80-6486512,42-3674577,67-9033494,Ayurveda,"MENTHOL, METHYL SALICYLATE","Albert Max, Inc."
+85-7757148,29-4379229,66-5664423,Ayurveda,Antihemophilic Factor (Human),"KEDRION BIOPHARMA, INC"
+84-0710072,87-9096307,38-9882513,Homeopathy,"Anthracinum, Influenza A Virus, Influenza B Virus, Pyrogenium, Aconitum nap., Antimon. tart., Arnica, Arsenicum alb., Baptisia, Belladonna, Bryonia, Cantharis, Chamomilla, Cinchona, Eupatorium perf., Ferrum metallicum, Gelsemium, Hepar sulph.calc., Iodium, Lachesis, Merc. viv., Phosphorus, Pulsatilla, Rhus toxicodendron, Salix nigra, Verbascum, Apis mel., Echinacea, Hydrastis","Newton Laboratories, Inc."
+53-5500624,48-0319930,41-2889836,Unani,Psyllium Husk,Procter & Gamble Manufacturing Company
+54-4913161,94-0213383,32-0681629,Unani,"HOMOSALATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE, OXYBENZONE",StriVectin Operating Company Inc.
+89-5343074,80-1273564,73-6829482,Homeopathy,hydrocodone bitartrate and acetaminophen,"UCB, Inc."
+01-7378302,16-9883703,82-2581030,Unani,Ethyl Alcohol,Tri-Coastal Design Company Inc.
+44-5984457,76-0917693,97-9606481,Homeopathy,zolpidem tartrate,"Physicians Total Care, Inc."
+10-1966689,92-9897662,89-2569487,Allopathy,repaglinide,"Physicians Total Care, Inc."
+97-5532006,45-5483872,75-4431541,Allopathy,PLANTAGO MAJOR,Natural Health Supply
+28-5907842,88-6434593,20-6895123,Naturopathy,Ampicillin sodium,Putney Inc
+15-8569015,67-5618779,92-4071823,Unani,Polysacchride Iron Vitamin Mineral Complex,"Gensavis Pharmaceuticals, LLC"
+79-4229461,64-6959705,99-3216438,Unani,ACYCLOVIR,American Health Packaging
+41-4164845,70-1865906,28-8880735,Unani,Nicotine Polacrilex,Kmart Corporation
+77-0400736,75-2439162,46-9287765,Homeopathy,Isopropyl Alcohol,Pioneer Associates
+87-0586141,83-3578906,57-9807538,Allopathy,PREGABALIN,"Dispensing Solutions, Inc."
+88-2061257,39-5869499,78-2085515,Allopathy,"camphor, menthol, methyl salicylate",Target Corporation
+60-1810069,79-8901892,94-4970114,Allopathy,SULFUR,Natural Health Supply
+02-7656250,29-8242679,73-6095610,Ayurveda,Cimetidine,Bryant Ranch Prepack
+56-5235598,72-7950179,90-8183153,Ayurveda,Aspirin,"Time-Cap Labs, Inc"
+06-3889680,99-0482672,47-3766716,Ayurveda,"Chlorpheniramine maleate, Phenylephrine HCl",HyVee Inc
+91-9080662,31-7018994,73-5403541,Naturopathy,Cytarabine,Pfizer Laboratories Div Pfizer Inc.
+07-2857353,83-4564546,04-5805063,Unani,Baclofen,Rebel Distributors Corp
+09-7467025,92-8056673,16-2363589,Allopathy,Bisacodyl,Safeway
+36-1711358,91-3890066,29-4824995,Allopathy,hydrocortisone,Qualitest Pharmaceuticals
+08-0170393,74-4988182,78-6586843,Ayurveda,simvastatin,Proficient Rx LP
+12-4010680,87-0224883,77-5748323,Ayurveda,peginterferon alfa-2a,"Genentech, Inc."
+95-2310463,37-3754801,31-9138111,Naturopathy,Anastrozole,"Physicians Total Care, Inc."
+41-8531530,56-1973274,96-3939443,Ayurveda,Divalproex Sodium,AbbVie Inc.
+46-0302657,47-5263738,82-2870765,Ayurveda,Hyoscyamine Sulfate,"Capellon Pharmaceuticals, LLC"
+75-3001373,69-7132799,33-8442538,Ayurveda,DOCUSATE SODIUM and BENZOCAINE,Enemeez Inc. DBA Summit Pharmaceuticals
+63-3154330,05-2359233,16-1646257,Unani,Acetaminophen,"Shopko Stores Operating Co., LLC"
+23-1904597,25-9388626,29-2379435,Homeopathy,Gemcitabine Hydrochloride,"Watson Laboratories, Inc."
+63-4912693,81-5641234,00-6357355,Allopathy,Lorazepam,BAXTER HEALTHCARE CORPORATION
+38-3340319,25-8906807,25-6275817,Naturopathy,CATTLE EPITHELIA,"ALK-Abello, Inc."
+27-4077073,49-0099344,17-2852887,Homeopathy,"PIPERACILLIN SODIUM,TAZOBACTAM SODIUM","APP Pharmaceuticals, LLC"
+60-9506256,48-1797703,30-5908671,Ayurveda,Octinoxate,L'Oreal USA Products Inc
+14-3680067,23-5706783,00-2329173,Ayurveda,Serotonin,"BioActive Nutritional, Inc."
+02-1336544,70-5554637,22-7962709,Homeopathy,Saline Laxative,CVS Pharmacy
+24-1301034,73-0595369,73-7257046,Ayurveda,Diphenhydramine HCl,NASH-FINCH COMPANY
+41-2591905,90-6218793,89-5559663,Homeopathy,"Octinoxate, Octisalate, Avobenzone","TAYLOR JAMES, LTD."
+19-4697915,56-2348517,77-8298914,Homeopathy,BENZALKONIUM CHLORIDE,"Byotrol, Inc."
+61-7330023,62-9850109,22-9039933,Unani,"ACETAMINOPHEN, GUAIFENESIN, and PHENYLEPHRINE HYDROCHLORIDE",Reckitt Benckiser LLC
+73-0431653,89-4611143,87-1198298,Naturopathy,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,ARMY AND AIR FORCE EXCHANGE SERVICE
+26-5029353,13-3251909,00-2285716,Ayurveda,Quercetin,"BioActive Nutritional, Inc."
+11-9161868,57-7704703,78-5071510,Unani,leflunomide,sanofi-aventis U.S. LLC
+01-5815243,67-0422010,86-5453492,Homeopathy,LISINOPRIL AND HYDROCHLOROTHIAZIDE,"Lupin Pharmaceuticals, Inc."
+15-6907395,97-3502656,82-6088190,Naturopathy,Midazolam Hydrochloride,Baxter Healthcare Corporation
+29-5349013,77-9511821,67-7759983,Allopathy,Camphor,Walgreens
+96-7590931,02-6039421,42-1108308,Homeopathy,"Aspirin, Caffeine","WOONSOCKET PRESCRIPTION CENTER,INCORPORATED"
+40-8795360,76-1109584,09-4278000,Homeopathy,amlodipine besylate and atorvastatin calcium,Pfizer Laboratories Div Pfizer Inc
+61-9412550,24-1174617,51-3796374,Ayurveda,"Dextromethorphan Hydrobromide, GUAIFENESIN",Best Choice
+24-8284240,90-7481979,83-1389878,Naturopathy,metformin hydrochloride,Torrent Pharmaceuticals Limited
+45-9958779,71-1685918,10-1721957,Ayurveda,Diphenhydramine Hydrochloride,"Dispensing Solutions, Inc."
+61-5091582,13-9878140,06-6530242,Allopathy,Dimethicone,"NATURE REPUBLIC CO., LTD."
+36-1165049,41-1290872,19-1117986,Unani,Poplar,"Nelco Laboratories, Inc."
+02-2415974,11-4457168,14-6310014,Allopathy,Titanium Dioxide and Zinc Oxide,Bare Escentuals Beauty Inc.
+49-1053440,24-2488103,85-1978875,Homeopathy,carboxymethylcellulose sodium,"Allergan, Inc."
+03-2313641,60-0272192,24-7033776,Homeopathy,Benzoin Resin,McKesson
+37-6160603,88-6567192,93-4227751,Naturopathy,fraxinus pennsylvanica pollen,"Allergy Laboratories, Inc."
+58-9182980,67-6906848,71-6825340,Unani,Polyethylene Glycol 3350,Sam's West Inc
+56-6285488,08-5845934,87-5119018,Ayurveda,Yellow Pine,"Nelco Laboratories, Inc."
+30-5865640,04-7705895,23-0588585,Unani,"Gaba, L-Dopa, Norepinephrine, Serotonin, Adrenocorticotrophin, Anacardium Orientale, Arsenicum Album, Baryta Carbonica, Calcarea Carbonica, Calcarea Phosphorica, Hyoscyamus Niger, Lycopodium Clavatum","Engergique, Inc."
+28-7591016,20-3809687,04-9204082,Naturopathy,Probenecid,"Aphena Pharma Solutions - Tennessee, LLC"
+23-8586469,13-5324183,86-8238053,Unani,hydroxyzine pamoate,A-S Medication Solutions LLC
+34-4811622,13-8212112,34-1405321,Allopathy,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",Meijer Distribution Inc
+06-7830675,07-6584282,22-9617365,Unani,Antihemophilic Factor/von Willebrand Factor Complex (Human),"GRIFOLS USA, LLC"
+32-0514620,82-5210922,24-5389245,Naturopathy,Oxymorphone Hydrochloride,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+25-5437170,01-1184602,68-4944365,Naturopathy,Diphenhydramine Hydrochloride,American Sales Company
+68-6977883,01-9989895,85-8468934,Unani,Cladosporium cladosporioides,"Nelco Laboratories, Inc."
+95-1253697,17-7959756,12-1419877,Unani,lucinactant,"Discovery Laboratories, Inc."
+54-7696796,53-7571138,99-3538802,Ayurveda,BENZALKONIUM CHLORIDE,"Xiamen Olivee Daily Use Chemical Co., Ltd."
+19-7731617,97-5742644,37-1927940,Allopathy,ACTAEA SPICATA ROOT,Natural Health Supply
+83-7067370,56-4386120,70-6421381,Allopathy,TRICLOSAN,World Club Supply Corp
+73-1795453,16-6459165,86-5710755,Ayurveda,Ibuprofen,H E B
+72-2167678,64-0730947,76-2283802,Naturopathy,Doxycycline Hyclate,REMEDYREPACK INC.
+48-1116798,22-5734567,52-2867521,Ayurveda,Mexican Tea,"ALK-Abello, Inc."
+59-2217228,16-5972355,56-0366461,Ayurveda,Telmisartan,Alembic Pharmaceuticals Limited
+82-2340906,88-7348612,62-2391980,Ayurveda,ALCOHOL,Share Corporation
+16-8061281,91-0350791,02-5109880,Homeopathy,Verapamil Hydrochloride,"PD-Rx Pharmaceuticals, Inc."
+84-1626637,05-4709314,73-7552364,Unani,modafinil,Bryant Ranch Prepack
+34-4471178,81-4318916,70-4217586,Naturopathy,Famotidine,Amerisource Bergen
+32-6064339,58-0119217,12-2349106,Naturopathy,METRONIDAZOLE,DIRECT RX
+84-2733769,65-0961681,87-3668809,Homeopathy,Meloxicam,McKesson Contract Packaging
+25-8159330,62-4522720,32-5496405,Allopathy,gabapentin,"Depomed, Inc."
+04-0089850,18-9880811,40-7864168,Allopathy,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,Coty US LLC
+75-9791931,43-8895563,26-6952867,Unani,Menthol,Health Care Laboratories Inc.
+80-6522271,55-5684670,02-9038923,Naturopathy,Ibuprofen,Kroger Company
+10-0216094,38-3018898,63-1810932,Ayurveda,BOTRYTIS CINEREA,"ALK-Abello, Inc."
+33-3309653,73-8301235,87-9361801,Homeopathy,Prochlorperazine maleate,Rebel Distributors Corp
+38-0928276,12-3337936,63-4102824,Unani,"Cactus Grandiflorus, Calendula Officinalis, Convallaria Majalis, Dulcamara, Leptandra Virginica, Solidago Virgaurea","BioActive Nutritional, Inc."
+44-5251275,18-6222717,49-7446908,Allopathy,Ranitidine,Publix Super Markets Inc
+34-8648515,94-6038769,76-7218600,Allopathy,Aspergillus niger,"Nelco Laboratories, Inc."
+49-2488710,36-1590432,20-1858546,Naturopathy,"Potassium hydrate, calcium sulphide, poison nut, cuttlefish ink",Indiana Botanic Gardens
+91-5065517,65-5954582,77-2713452,Ayurveda,Ovaria Apis Special Order,Uriel Pharmacy Inc.
+04-3925176,15-2027446,66-8325554,Allopathy,exenatide,AstraZeneca Pharmaceuticals LP
+96-3607947,16-9156358,40-0194121,Ayurveda,Beef,"Nelco Laboratories, Inc."
+24-2891604,96-5436363,99-5575324,Ayurveda,ETHYL ALCOHOL,"Ningbo Dowland Daily Health Co., Ltd"
+82-1846900,32-3678895,07-9998211,Ayurveda,Phenol,Perrigo New York Inc
+01-7060665,73-4276278,88-6670968,Ayurveda,lisinopril,BluePoint Laboratories
+50-2615637,57-1052439,09-4979313,Allopathy,Lisinopril,ReadyMeds
+92-4138797,63-0521744,50-1958003,Ayurveda,quetiapine fumarate,"Aphena Pharma Solutions - Tennessee, LLC"
+70-0580989,29-0591500,29-7998610,Allopathy,"Acetaminophen, Caffeine, Pyrilamine maleate","Western Family Foods, Inc."
+82-3363298,53-8707526,58-9051614,Ayurveda,SULFUR,"DLC Laboratories, Inc."
+75-7923402,24-9871942,84-6254498,Naturopathy,Neomycin and Polymyxin B Sulfates and Bacitracin Zinc,"H.J. Harkins Company, Inc."
+54-1212214,09-0890435,27-1872041,Allopathy,amlodipine besylate and atorvastatin calcium,Pfizer Laboratories Div Pfizer Inc
+23-8247056,44-1229346,18-5838418,Homeopathy,NOT APPLICABLE,"BioActive Nutritional, Inc."
+17-8581011,39-8550417,38-1058673,Ayurveda,"ACONITUM NAPELLUS, BELLADONNA LEAF, CALENDULA OFFICINALIS FLOWERING TOP, CHELIDONIUM MAJUS, ABRUS PRECATORIUS SEED, VIBURNUM OPULUS ROOT",Laboratoires Boiron
+69-2429801,22-7952155,92-4347138,Homeopathy,"HYDROQUINONE, OCTINOXATE AND ZINC OXIDE","OMP, INC."
+75-3361009,10-3414711,47-1739402,Allopathy,SODIUM MONOFLUOROPHOSPHATE,Cellinbio Co Ltd
+40-5964894,79-5579131,75-8493112,Naturopathy,Nitrofurantoin (monohydrate/macrocrystals),Bryant Ranch Prepack
+12-7582550,95-9716003,89-2564580,Naturopathy,Phenylephrine Hydrochloride,Supervalu Inc
+04-9136542,78-2060271,71-2801256,Unani,Caffeine,Valu Merchandisers Company (Best Choice)
+13-8734376,86-1197361,02-5262875,Ayurveda,Acetaminophen and Diphenhydramine HCl,Kmart Corporation
+11-5327817,80-5666936,17-9160607,Naturopathy,Omeprazole,Cadila Healthcare Limited
+52-7578213,51-3877625,75-1058732,Allopathy,"avobenzone, homosalate, titanium dioxide, zinc oxide","Biopelle, Inc."
+01-6208650,79-6395069,55-0377869,Allopathy,Coal Tar,"FoodHold U.S.A., LLC"
+60-3883454,80-5525344,10-2344602,Ayurveda,Ibuprofen,"Geiss, Destin & Dunn, Inc (Goodsense)"
+40-0349142,98-1209165,31-1838235,Allopathy,Epinephrine,"American Regent, Inc."
+20-6662765,61-0954948,82-0521283,Unani,oxytocin,"JHP Pharmaceuticals, LLC"
+96-5281661,71-6710650,66-1109650,Allopathy,Oxaliplatin,"Teva Parenteral Medicines, Inc."
+09-3757189,97-7603760,54-2018555,Ayurveda,"Adenosinum cyclophosphoricum, Adrenalinum, Adrenocorticotrophin, Allium cepa, Asarum canadense, Cortisone aceticum, Eupatorium aromaticum, Euphrasia officinalis, Fraxinus americana, Galphimia glauca, Helianthus annuus, Histaminum hydrochloricum, juniperus virginiana, Kali muriaticum, Mucosa nasalis suis, Natrum muriaticum, Plantago major, RNA, Rumex crispus, Sabadilla, Senecio jacobaea",King Bio Inc.
+35-8533453,42-3024954,81-1321440,Unani,Pyrithione Zinc,Procter & Gamble Manufacturing Company
+42-7264393,73-9621259,06-6011737,Ayurveda,Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1),Terumo Corporation
+61-1127592,47-0072363,63-7818064,Homeopathy,Benzalkonium Chloride,"GANZ U.S.A., LLC"
+50-5076981,80-6117824,03-6015295,Naturopathy,Ciprofloxacin,Bryant Ranch Prepack
+51-4242384,52-1094056,20-6148570,Homeopathy,Alcohol,"Professional Disposables International, Inc."
+60-2483002,50-0273271,63-2436797,Naturopathy,moxifloxacin hydrochloride,Rebel Distributors Corp
+00-2073674,18-7773222,66-8759966,Naturopathy,Carbinoxamine maleate,"Hawthorn Pharmaceuticals, Inc."
+46-1148346,81-5490484,99-7810847,Unani,Diphenhydramine Hydrochloride,Advance Pharmaceutical Inc.
+15-6186885,09-4764063,81-4720233,Unani,clonazepam,Qualitest Pharmaceuticals
+45-4230637,23-2876931,67-0454222,Homeopathy,"Allium cepa, Ambrosia artemisiaefolia, Arsenicum album, Arum triphyllum, Arundo mauritanica, Euphrasia officinalis, Naphthalinum, Natrum muriaticum, Sabadilla and Wyethia helenioides",King Bio Inc
+70-6264074,62-3121201,69-8342147,Naturopathy,MORPHINE SULFATE,STAT Rx USA LLC
+33-8468961,14-3175177,64-0404190,Homeopathy,"Titanium Dioxide, Zinc Oxide","Fallien Cosmeceuticals, LTD."
+57-5064420,85-5832216,71-5782930,Ayurveda,CEFTRIAXONE,Rebel Distributors Corp
+90-5833154,60-1359358,02-5825399,Unani,Tetracycline Hydrochloride,"Watson Laboratories, Inc."
+08-4107571,92-5878937,52-8792930,Allopathy,Ethyl Alcohol,"Geiss, Destin & Dunn, Inc"
+88-1905993,07-6564503,89-9663811,Homeopathy,"Octinoxate, Titanium Dioxide","Merle Norman Cosmetics, Inc."
